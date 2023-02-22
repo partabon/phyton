@@ -1,0 +1,13 @@
+print( (1+1j)*(1-1j))
+print( 3.1416 * 10 **2 )
+print( True )
+print( [0, 1, 2, 3, 4, 5])
+print( 3/4)
+print( ('mercurio','venus','tierra'))
+print( 3//4)
+print( {'first_name':'Asabeneh'})
+print( 'disfruto 30 días de Phyton')
+print( type({'first_name':'Asabeneh'}))
+print( type(['Asabeneth','Python','Finland']))
+
+print(((2-10)**2 + (10-8)**2)**.5)
