@@ -1,4 +1,4 @@
-#Calcula el Índice de Masa Corporal  BMI
+#Calcula las 
 peso=float(input('Peso en kg: '))
 estatura=float(input('Estatura en metros: '))
 BMI=peso/(estatura**2)
