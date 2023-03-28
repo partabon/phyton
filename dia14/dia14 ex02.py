@@ -31,15 +31,37 @@ print(list(countries_6mas))
 countries_conE = filter(lambda c: c.startswith('E'), countries)
 print(list(countries_conE)) 
 
-# Chain two or more list iterators (eg. arr.map(callback).filter(callback).reduce(callback))
+# 8. Chain two or more list iterators 
+# (eg. arr.map(callback).filter(callback).reduce(callback))
+# lo anterior es sintaxis de JavaScript, pero parece que no es posible 
+# hacerlo en Python en una sola línea,
+# Hay formas de hacerlo usando librerías externas (como PyFunctional, 
+# http://github.com/EntilZha/PyFunctional), pero eso está fuera del 
+# alcance de este curso, y ya le dediqué mucho tiempo a este problema
+numbers_squared = list(map(lambda x: x*x, numbers))
+numbers_squared_big = list(filter(lambda num: num >15, numbers_squared))
+print(numbers_squared_big)
 
-# Declare a function called get_string_lists which takes 
+# 9. Declare a function called get_string_lists which takes 
 # a list as a parameter and then returns a list containing 
 # only string items.
+def get_string_lists(l):
+    l2=list.copy(l)
+    return list(map(lambda x: str(x), l2))
 
-# Use reduce to sum all the numbers in the numbers list.
-# Use reduce to concatenate all the countries and to produce this sentence: Estonia, Finland, Sweden, Denmark, Norway, and Iceland are north European countries
-#Declare a function called categorize_countries that returns a list of countries with some common pattern (you can find the countries list in this repository as countries.js(eg 'land', 'ia', 'island', 'stan')).
-#Create a function returning a dictionary, where keys stand for starting letters of countries and values are the number of country names starting with that letter.
-# Declare a get_first_ten_countries function - it returns a list of first ten countries from the countries.js list in the data folder.
-# Declare a get_last_ten_countries function that returns the last ten countries in the countries list.
+print(get_string_lists(numbers))
+
+# 10. Use reduce to sum all the numbers in the numbers list.
+import functools
+total = functools.reduce(lambda x,y : x+y, numbers)
+print(total) 
+
+# 11. Use reduce to concatenate all the countries and to produce 
+# this sentence: Estonia, Finland, Sweden, Denmark, Norway, and Iceland 
+# are north European countries
+# usaremos sólo los 5 primeros países y les añadiremos coma
+from functools import reduce
+cadena = reduce(lambda x,y: ', '.join([x,y]),countries[:-1])
+print(cadena)
+cadena_final = cadena +' and ' + countries[-1] + ' are north European countries'
+print(cadena_final)

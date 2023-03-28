@@ -22,10 +22,10 @@ names = ['Asabeneh', 'Lidiya', 'Ermias', 'Abraham']
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 names_upper_cased = map(lambda name: name.upper(), names)
-print(list(names_upper_cased))    # ['ASABENEH', 'LIDIYA', 'ERMIAS', 'ABRAHAM']
+print(list(names_upper_cased))    
 
 long_names = filter(lambda name: len(name)>6, names)
-print(list(long_names))         # ['Asabeneh']
+print(list(long_names))        
 
 import functools
 total = functools.reduce(lambda x,y : x+y, numbers)
