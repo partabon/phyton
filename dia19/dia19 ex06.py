@@ -1,13 +1,16 @@
     
     
 def find_most_common_words(name,total):
-    with open('./data/'+name) as f:
+    with open('./data/'+name + ".txt") as f:
             texto = f.readlines()  
     total_palabras = set()
     for linea in texto:
         palabras = linea.split()
         total_palabras.update(palabras)
     print(len(total_palabras))
+    with open('./data/salida.txt','w') as f:
+        f.write(str(total_palabras))
+        f.close()
     #Crea un diccionario con los palabras
     dicc_palabras = {}
     for linea in total_palabras:
@@ -37,44 +40,64 @@ def find_most_common_words(name,total):
                 palabras[j] =palabras[j+1]
                 valores[j+1]=aux_valores
                 palabras[j+1]= aux_palabras
-    #almacena los n palabras que se hablan en el mayor número de países
+    #almacena los n palabras
     lista =list()
     for i in range(total):
         lista.append((valores[i], palabras[i])) 
     return lista[:total]
 
-#print(find_most_common_words('obama_speech.txt', 10))
-w= find_most_common_words('obama_speech.txt', 10)
-for k in w:
-    print(k)
 
-#print(find_most_common_words('donald_speech.txt', 10))
-w= find_most_common_words('donald_speech.txt', 10)
-for k in w:
-    print(k)
-
-print(find_most_common_words('michelle_obama_speech.txt', 10))
-
-print(find_most_common_words('melina_trump_speech.txt', 10))
-
-def clean_text(texto):
+def clean_text(name):
+    with open('./data/'+name+".txt") as f:
+            texto = f.readlines() 
     #cambiar todo a minúsculas línea por línea
     texto2 = list()
     for i in range(len(texto)):
         texto2.append(texto[i].lower())
     #quitar guiones, comas, puntos, comillas, etc.
-    cadena ="\t-,\""
+    cadena ="\t–-,\"\'[]():."
     for letra in cadena:
         for i in range(len(texto)):
-            texto2[i] = texto2[i].replace(letra,'')
-    return texto2
+            texto2[i] = texto2[i].replace(letra,' ')
+    with open('./data/'+name+"2.txt",'w') as f:
+        f.writelines(texto2)
+    return 
+
+
 
 import stop_words
-def remove_support_words(texto):
+def remove_support_words(name):
+    with open('./data/'+name+"2.txt") as f:
+            texto = f.readlines() 
     soporte = stop_words.stop_words
-    texto2 = list()
-    return texto2
+    texto2=list()
+    for i in range(len(texto)):
+        cadena = texto[i].split(' ')
+        for palabra in soporte:
+            ocurrencias = cadena.count(palabra) 
+            if ocurrencias > 0:
+                for i in range(ocurrencias):
+                    cadena.remove(palabra)
+        texto2.append(' '.join(cadena))
+    with open('./data/'+name+"3.txt",'w') as f:
+        f.writelines(texto2)
+    return 
 
+clean_text('obama_speech')
+remove_support_words('obama_speech')
+print (find_most_common_words('obama_speech3',12))
+
+clean_text('donald_speech')
+remove_support_words('donald_speech')
+print (find_most_common_words('donald_speech3',12))
+
+clean_text('michelle_obama_speech')
+remove_support_words('michelle_obama_speech')
+print (find_most_common_words('michelle_obama_speech3',12))
+
+clean_text('melina_trump_speech')
+remove_support_words('melina_trump_speech')
+print (find_most_common_words('melina_trump_speech3',12))
 
 def check_text_similarity(texto1, texto2):
     #voy a usar un índice que vi en internet
