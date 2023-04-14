@@ -85,26 +85,48 @@ def remove_support_words(name):
 
 clean_text('obama_speech')
 remove_support_words('obama_speech')
-print (find_most_common_words('obama_speech3',12))
+print ('obama:',find_most_common_words('obama_speech3',12))
 
 clean_text('donald_speech')
 remove_support_words('donald_speech')
-print (find_most_common_words('donald_speech3',12))
+print ('Donald:',find_most_common_words('donald_speech3',12))
 
 clean_text('michelle_obama_speech')
 remove_support_words('michelle_obama_speech')
-print (find_most_common_words('michelle_obama_speech3',12))
+print ('michelle_obama_speech',find_most_common_words('michelle_obama_speech3',12))
 
 clean_text('melina_trump_speech')
 remove_support_words('melina_trump_speech')
-print (find_most_common_words('melina_trump_speech3',12))
+print ('melina_trump_speech',find_most_common_words('melina_trump_speech3',12))
 
-def check_text_similarity(texto1, texto2):
+def check_text_similarity(name1, name2):
     #voy a usar un índice que vi en internet
     # sería texto1 Ո texto2 / texto1 Ս texto2
     # este índice va de 0 a 1
     # entre más cerca este de 1 mayor la similitud
+    #Usaré la versión de los discursos que está depurada
+    with open('./data/'+name1+"3.txt") as f:
+        texto1 = f.readlines() 
+    with open('./data/'+name2+"3.txt") as f:
+        texto2 = f.readlines()
+        #dos conjuntos:
+    total_palabras1 =set()   
+    for linea in texto1:
+        palabras = linea.split()
+        total_palabras1.update(palabras)
+    print('palabras únicas ',name1, len(total_palabras1))
+    total_palabras2 =set()   
+    for linea in texto2:
+        palabras = linea.split()
+        total_palabras2.update(palabras)
+    print('palabras únicas ',name2, len(total_palabras2))
+    interseccion = total_palabras1.intersection(total_palabras2)
+    union = total_palabras1.union(total_palabras2)
+    print(len(interseccion),len(union))
+    similitud = len(interseccion )/ len(union )
     return similitud
 
+print('\nsimilaridad: ',check_text_similarity('melina_trump_speech', 'michelle_obama_speech'))
+print('\nsimilaridad: ',check_text_similarity('obama_speech', 'donald_speech'))
 
 
