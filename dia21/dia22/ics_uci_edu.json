@@ -1,0 +1,5600 @@
+[
+    {
+        "Name": "Abalone",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "4177",
+        "# Attributes": "8",
+        "Year": "1995"
+    },
+    {
+        "Name": "Adult",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "48842",
+        "# Attributes": "14",
+        "Year": "1996"
+    },
+    {
+        "Name": "Annealing",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "798",
+        "# Attributes": "38",
+        "Year": ""
+    },
+    {
+        "Name": "Anonymous Microsoft Web Data",
+        "Data Types": "",
+        "Default Task": "Recommender-Systems",
+        "Attribute Types": "Categorical",
+        "# Instances": "37711",
+        "# Attributes": "294",
+        "Year": "1998"
+    },
+    {
+        "Name": "Arrhythmia",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "452",
+        "# Attributes": "279",
+        "Year": "1998"
+    },
+    {
+        "Name": "Artificial Characters",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "6000",
+        "# Attributes": "7",
+        "Year": "1992"
+    },
+    {
+        "Name": "Audiology (Original)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "226",
+        "# Attributes": "",
+        "Year": "1987"
+    },
+    {
+        "Name": "Audiology (Standardized)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "226",
+        "# Attributes": "69",
+        "Year": "1992"
+    },
+    {
+        "Name": "Auto MPG",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Categorical, Real",
+        "# Instances": "398",
+        "# Attributes": "8",
+        "Year": "1993"
+    },
+    {
+        "Name": "Automobile",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "205",
+        "# Attributes": "26",
+        "Year": "1987"
+    },
+    {
+        "Name": "Badges",
+        "Data Types": "Univariate, Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "294",
+        "# Attributes": "1",
+        "Year": "1994"
+    },
+    {
+        "Name": "Balance Scale",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "625",
+        "# Attributes": "4",
+        "Year": "1994"
+    },
+    {
+        "Name": "Balloons",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "16",
+        "# Attributes": "4",
+        "Year": ""
+    },
+    {
+        "Name": "Breast Cancer",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "286",
+        "# Attributes": "9",
+        "Year": "1988"
+    },
+    {
+        "Name": "Breast Cancer Wisconsin (Original)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "699",
+        "# Attributes": "10",
+        "Year": "1992"
+    },
+    {
+        "Name": "Breast Cancer Wisconsin (Prognostic)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "198",
+        "# Attributes": "34",
+        "Year": "1995"
+    },
+    {
+        "Name": "Breast Cancer Wisconsin (Diagnostic)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "569",
+        "# Attributes": "32",
+        "Year": "1995"
+    },
+    {
+        "Name": "Pittsburgh Bridges",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "108",
+        "# Attributes": "13",
+        "Year": "1990"
+    },
+    {
+        "Name": "Car Evaluation",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "1728",
+        "# Attributes": "6",
+        "Year": "1997"
+    },
+    {
+        "Name": "Census Income",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "48842",
+        "# Attributes": "14",
+        "Year": "1996"
+    },
+    {
+        "Name": "Chess (King-Rook vs. King-Knight)",
+        "Data Types": "Multivariate, Data-Generator",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "",
+        "# Attributes": "22",
+        "Year": "1988"
+    },
+    {
+        "Name": "Chess (King-Rook vs. King-Pawn)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "3196",
+        "# Attributes": "36",
+        "Year": "1989"
+    },
+    {
+        "Name": "Chess (King-Rook vs. King)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "28056",
+        "# Attributes": "6",
+        "Year": "1994"
+    },
+    {
+        "Name": "Chess (Domain Theories)",
+        "Data Types": "Domain-Theory",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Bach Chorales",
+        "Data Types": "Univariate, Time-Series",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "100",
+        "# Attributes": "6",
+        "Year": ""
+    },
+    {
+        "Name": "Connect-4",
+        "Data Types": "Multivariate, Spatial",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "67557",
+        "# Attributes": "42",
+        "Year": "1995"
+    },
+    {
+        "Name": "Credit Approval",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "690",
+        "# Attributes": "15",
+        "Year": ""
+    },
+    {
+        "Name": "Japanese Credit Screening",
+        "Data Types": "Multivariate, Domain-Theory",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Real, Integer",
+        "# Instances": "125",
+        "# Attributes": "",
+        "Year": "1992"
+    },
+    {
+        "Name": "Computer Hardware",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "209",
+        "# Attributes": "9",
+        "Year": "1987"
+    },
+    {
+        "Name": "Contraceptive Method Choice",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "1473",
+        "# Attributes": "9",
+        "Year": "1997"
+    },
+    {
+        "Name": "Covertype",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "581012",
+        "# Attributes": "54",
+        "Year": "1998"
+    },
+    {
+        "Name": "Cylinder Bands",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "512",
+        "# Attributes": "39",
+        "Year": "1995"
+    },
+    {
+        "Name": "Dermatology",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "366",
+        "# Attributes": "33",
+        "Year": "1998"
+    },
+    {
+        "Name": "Diabetes",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "",
+        "# Attributes": "20",
+        "Year": ""
+    },
+    {
+        "Name": "DGP2 - The Second Data Generation Program",
+        "Data Types": "Data-Generator",
+        "Default Task": "",
+        "Attribute Types": "Real",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Document Understanding",
+        "Data Types": "",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "1994"
+    },
+    {
+        "Name": "EBL Domain Theories",
+        "Data Types": "",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Echocardiogram",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "132",
+        "# Attributes": "12",
+        "Year": "1989"
+    },
+    {
+        "Name": "Ecoli",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "336",
+        "# Attributes": "8",
+        "Year": "1996"
+    },
+    {
+        "Name": "Flags",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "194",
+        "# Attributes": "30",
+        "Year": "1990"
+    },
+    {
+        "Name": "Function Finding",
+        "Data Types": "",
+        "Default Task": "Function-Learning",
+        "Attribute Types": "Real",
+        "# Instances": "352",
+        "# Attributes": "",
+        "Year": "1990"
+    },
+    {
+        "Name": "Glass Identification",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "214",
+        "# Attributes": "10",
+        "Year": "1987"
+    },
+    {
+        "Name": "Haberman's Survival",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "306",
+        "# Attributes": "3",
+        "Year": "1999"
+    },
+    {
+        "Name": "Hayes-Roth",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "160",
+        "# Attributes": "5",
+        "Year": "1989"
+    },
+    {
+        "Name": "Heart Disease",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "303",
+        "# Attributes": "75",
+        "Year": "1988"
+    },
+    {
+        "Name": "Hepatitis",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "155",
+        "# Attributes": "19",
+        "Year": "1988"
+    },
+    {
+        "Name": "Horse Colic",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "368",
+        "# Attributes": "27",
+        "Year": "1989"
+    },
+    {
+        "Name": "ICU",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "",
+        "Attribute Types": "Real",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Image Segmentation",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "2310",
+        "# Attributes": "19",
+        "Year": "1990"
+    },
+    {
+        "Name": "Internet Advertisements",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "3279",
+        "# Attributes": "1558",
+        "Year": "1998"
+    },
+    {
+        "Name": "Ionosphere",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "351",
+        "# Attributes": "34",
+        "Year": "1989"
+    },
+    {
+        "Name": "Iris",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "150",
+        "# Attributes": "4",
+        "Year": "1988"
+    },
+    {
+        "Name": "ISOLET",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "7797",
+        "# Attributes": "617",
+        "Year": "1994"
+    },
+    {
+        "Name": "Kinship",
+        "Data Types": "Relational",
+        "Default Task": "Relational-Learning",
+        "Attribute Types": "Categorical",
+        "# Instances": "104",
+        "# Attributes": "12",
+        "Year": "1990"
+    },
+    {
+        "Name": "Labor Relations",
+        "Data Types": "Multivariate",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "57",
+        "# Attributes": "16",
+        "Year": "1988"
+    },
+    {
+        "Name": "LED Display Domain",
+        "Data Types": "Multivariate, Data-Generator",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "",
+        "# Attributes": "7",
+        "Year": "1988"
+    },
+    {
+        "Name": "Lenses",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "24",
+        "# Attributes": "4",
+        "Year": "1990"
+    },
+    {
+        "Name": "Letter Recognition",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "20000",
+        "# Attributes": "16",
+        "Year": "1991"
+    },
+    {
+        "Name": "Liver Disorders",
+        "Data Types": "Multivariate",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "345",
+        "# Attributes": "7",
+        "Year": "1990"
+    },
+    {
+        "Name": "Logic Theorist",
+        "Data Types": "Domain-Theory",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Lung Cancer",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "32",
+        "# Attributes": "56",
+        "Year": "1992"
+    },
+    {
+        "Name": "Lymphography",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "148",
+        "# Attributes": "18",
+        "Year": "1988"
+    },
+    {
+        "Name": "Mechanical Analysis",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "209",
+        "# Attributes": "8",
+        "Year": "1990"
+    },
+    {
+        "Name": "Meta-data",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "528",
+        "# Attributes": "22",
+        "Year": "1996"
+    },
+    {
+        "Name": "Mobile Robots",
+        "Data Types": "Domain-Theory",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "1995"
+    },
+    {
+        "Name": "Molecular Biology (Promoter Gene Sequences)",
+        "Data Types": "Sequential, Domain-Theory",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "106",
+        "# Attributes": "58",
+        "Year": "1990"
+    },
+    {
+        "Name": "Molecular Biology (Protein Secondary Structure)",
+        "Data Types": "Sequential",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "128",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Molecular Biology (Splice-junction Gene Sequences)",
+        "Data Types": "Sequential, Domain-Theory",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "3190",
+        "# Attributes": "61",
+        "Year": "1992"
+    },
+    {
+        "Name": "MONK's Problems",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "432",
+        "# Attributes": "7",
+        "Year": "1992"
+    },
+    {
+        "Name": "Moral Reasoner",
+        "Data Types": "Domain-Theory",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "202",
+        "# Attributes": "",
+        "Year": "1994"
+    },
+    {
+        "Name": "Multiple Features",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "2000",
+        "# Attributes": "649",
+        "Year": ""
+    },
+    {
+        "Name": "Mushroom",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "8124",
+        "# Attributes": "22",
+        "Year": "1987"
+    },
+    {
+        "Name": "Musk (Version 1)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "476",
+        "# Attributes": "168",
+        "Year": "1994"
+    },
+    {
+        "Name": "Musk (Version 2)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "6598",
+        "# Attributes": "168",
+        "Year": "1994"
+    },
+    {
+        "Name": "Nursery",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "12960",
+        "# Attributes": "8",
+        "Year": "1997"
+    },
+    {
+        "Name": "Othello Domain Theory",
+        "Data Types": "Domain-Theory",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "1991"
+    },
+    {
+        "Name": "Page Blocks Classification",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "5473",
+        "# Attributes": "10",
+        "Year": "1995"
+    },
+    {
+        "Name": "Optical Recognition of Handwritten Digits",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "5620",
+        "# Attributes": "64",
+        "Year": "1998"
+    },
+    {
+        "Name": "Pen-Based Recognition of Handwritten Digits",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "10992",
+        "# Attributes": "16",
+        "Year": "1998"
+    },
+    {
+        "Name": "Post-Operative Patient",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "90",
+        "# Attributes": "8",
+        "Year": "1993"
+    },
+    {
+        "Name": "Primary Tumor",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "339",
+        "# Attributes": "17",
+        "Year": "1988"
+    },
+    {
+        "Name": "Prodigy",
+        "Data Types": "Domain-Theory",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Qualitative Structure Activity Relationships",
+        "Data Types": "Domain-Theory",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Quadruped Mammals",
+        "Data Types": "Multivariate, Data-Generator",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "",
+        "# Attributes": "72",
+        "Year": "1992"
+    },
+    {
+        "Name": "Servo",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "167",
+        "# Attributes": "4",
+        "Year": "1993"
+    },
+    {
+        "Name": "Shuttle Landing Control",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "15",
+        "# Attributes": "6",
+        "Year": "1988"
+    },
+    {
+        "Name": "Solar Flare",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Categorical",
+        "# Instances": "1389",
+        "# Attributes": "10",
+        "Year": "1989"
+    },
+    {
+        "Name": "Soybean (Large)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "307",
+        "# Attributes": "35",
+        "Year": "1988"
+    },
+    {
+        "Name": "Soybean (Small)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "47",
+        "# Attributes": "35",
+        "Year": "1987"
+    },
+    {
+        "Name": "Challenger USA Space Shuttle O-Ring",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "23",
+        "# Attributes": "4",
+        "Year": "1993"
+    },
+    {
+        "Name": "Low Resolution Spectrometer",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "531",
+        "# Attributes": "102",
+        "Year": "1988"
+    },
+    {
+        "Name": "Spambase",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "4601",
+        "# Attributes": "57",
+        "Year": "1999"
+    },
+    {
+        "Name": "SPECT Heart",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "267",
+        "# Attributes": "22",
+        "Year": "2001"
+    },
+    {
+        "Name": "SPECTF Heart",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "267",
+        "# Attributes": "44",
+        "Year": "2001"
+    },
+    {
+        "Name": "Sponge",
+        "Data Types": "Multivariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "76",
+        "# Attributes": "45",
+        "Year": ""
+    },
+    {
+        "Name": "Statlog Project",
+        "Data Types": "",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "1992"
+    },
+    {
+        "Name": "Student Loan Relational",
+        "Data Types": "Domain-Theory",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "1000",
+        "# Attributes": "",
+        "Year": "1993"
+    },
+    {
+        "Name": "Teaching Assistant Evaluation",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "151",
+        "# Attributes": "5",
+        "Year": "1997"
+    },
+    {
+        "Name": "Tic-Tac-Toe Endgame",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "958",
+        "# Attributes": "9",
+        "Year": "1991"
+    },
+    {
+        "Name": "Thyroid Disease",
+        "Data Types": "Multivariate, Domain-Theory",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Real",
+        "# Instances": "7200",
+        "# Attributes": "21",
+        "Year": "1987"
+    },
+    {
+        "Name": "Trains",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "10",
+        "# Attributes": "32",
+        "Year": "1994"
+    },
+    {
+        "Name": "University",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "285",
+        "# Attributes": "17",
+        "Year": "1988"
+    },
+    {
+        "Name": "Congressional Voting Records",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "435",
+        "# Attributes": "16",
+        "Year": "1987"
+    },
+    {
+        "Name": "Water Treatment Plant",
+        "Data Types": "Multivariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "527",
+        "# Attributes": "38",
+        "Year": "1993"
+    },
+    {
+        "Name": "Waveform Database Generator (Version 1)",
+        "Data Types": "Multivariate, Data-Generator",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "5000",
+        "# Attributes": "21",
+        "Year": "1988"
+    },
+    {
+        "Name": "Waveform Database Generator (Version 2)",
+        "Data Types": "Multivariate, Data-Generator",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "5000",
+        "# Attributes": "40",
+        "Year": "1988"
+    },
+    {
+        "Name": "Wine",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "178",
+        "# Attributes": "13",
+        "Year": "1991"
+    },
+    {
+        "Name": "Yeast",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "1484",
+        "# Attributes": "8",
+        "Year": "1996"
+    },
+    {
+        "Name": "Zoo",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "101",
+        "# Attributes": "17",
+        "Year": "1990"
+    },
+    {
+        "Name": "Undocumented",
+        "Data Types": "",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Twenty Newsgroups",
+        "Data Types": "Text",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "20000",
+        "# Attributes": "",
+        "Year": "1999"
+    },
+    {
+        "Name": "Australian Sign Language signs",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Real",
+        "# Instances": "6650",
+        "# Attributes": "15",
+        "Year": "1999"
+    },
+    {
+        "Name": "Australian Sign Language signs (High Quality)",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "2565",
+        "# Attributes": "22",
+        "Year": "2002"
+    },
+    {
+        "Name": "US Census Data (1990)",
+        "Data Types": "Multivariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "Categorical",
+        "# Instances": "2458285",
+        "# Attributes": "68",
+        "Year": ""
+    },
+    {
+        "Name": "Census-Income (KDD)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "299285",
+        "# Attributes": "40",
+        "Year": "2000"
+    },
+    {
+        "Name": "Coil 1999 Competition Data",
+        "Data Types": "Multivariate",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Real",
+        "# Instances": "340",
+        "# Attributes": "17",
+        "Year": "1999"
+    },
+    {
+        "Name": "Corel Image Features",
+        "Data Types": "Multivariate",
+        "Default Task": "",
+        "Attribute Types": "Real",
+        "# Instances": "68040",
+        "# Attributes": "89",
+        "Year": "1999"
+    },
+    {
+        "Name": "E. Coli Genes",
+        "Data Types": "Relational",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2001"
+    },
+    {
+        "Name": "EEG Database",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "122",
+        "# Attributes": "4",
+        "Year": "1999"
+    },
+    {
+        "Name": "El Nino",
+        "Data Types": "Spatio-temporal",
+        "Default Task": "",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "178080",
+        "# Attributes": "12",
+        "Year": "1999"
+    },
+    {
+        "Name": "Entree Chicago Recommendation Data",
+        "Data Types": "Transactional, Sequential",
+        "Default Task": "Recommender-Systems",
+        "Attribute Types": "Categorical",
+        "# Instances": "50672",
+        "# Attributes": "",
+        "Year": "2000"
+    },
+    {
+        "Name": "CMU Face Images",
+        "Data Types": "Image",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "640",
+        "# Attributes": "",
+        "Year": "1999"
+    },
+    {
+        "Name": "Insurance Company Benchmark (COIL 2000)",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression, Description",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "9000",
+        "# Attributes": "86",
+        "Year": "2000"
+    },
+    {
+        "Name": "Internet Usage Data",
+        "Data Types": "Multivariate",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "10104",
+        "# Attributes": "72",
+        "Year": "1999"
+    },
+    {
+        "Name": "IPUMS Census Database",
+        "Data Types": "Multivariate",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "256932",
+        "# Attributes": "61",
+        "Year": "1999"
+    },
+    {
+        "Name": "Japanese Vowels",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "640",
+        "# Attributes": "12",
+        "Year": ""
+    },
+    {
+        "Name": "KDD Cup 1998 Data",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "191779",
+        "# Attributes": "481",
+        "Year": "1998"
+    },
+    {
+        "Name": "KDD Cup 1999 Data",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "4000000",
+        "# Attributes": "42",
+        "Year": "1999"
+    },
+    {
+        "Name": "M. Tuberculosis Genes",
+        "Data Types": "Relational",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2001"
+    },
+    {
+        "Name": "Movie",
+        "Data Types": "Multivariate, Relational",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "10000",
+        "# Attributes": "",
+        "Year": "1999"
+    },
+    {
+        "Name": "MSNBC.com Anonymous Web Data",
+        "Data Types": "Sequential",
+        "Default Task": "",
+        "Attribute Types": "Categorical",
+        "# Instances": "989818",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "NSF Research Award Abstracts 1990-2003",
+        "Data Types": "Text",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "129000",
+        "# Attributes": "",
+        "Year": "2003"
+    },
+    {
+        "Name": "Pioneer-1 Mobile Robot Data",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Real",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "1999"
+    },
+    {
+        "Name": "Pseudo Periodic Synthetic Time Series",
+        "Data Types": "Univariate, Time-Series",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "100000",
+        "# Attributes": "",
+        "Year": "1999"
+    },
+    {
+        "Name": "Reuters-21578 Text Categorization Collection",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "21578",
+        "# Attributes": "5",
+        "Year": "1997"
+    },
+    {
+        "Name": "Robot Execution Failures",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "463",
+        "# Attributes": "90",
+        "Year": "1999"
+    },
+    {
+        "Name": "Synthetic Control Chart Time Series",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "600",
+        "# Attributes": "",
+        "Year": "1999"
+    },
+    {
+        "Name": "Syskill and Webert Web Page Ratings",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "332",
+        "# Attributes": "5",
+        "Year": "1998"
+    },
+    {
+        "Name": "UNIX User Data",
+        "Data Types": "Text, Sequential",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Volcanoes on Venus - JARtool experiment",
+        "Data Types": "Image",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Statlog (Australian Credit Approval)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "690",
+        "# Attributes": "14",
+        "Year": ""
+    },
+    {
+        "Name": "Statlog (German Credit Data)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "1000",
+        "# Attributes": "20",
+        "Year": "1994"
+    },
+    {
+        "Name": "Statlog (Heart)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Real",
+        "# Instances": "270",
+        "# Attributes": "13",
+        "Year": ""
+    },
+    {
+        "Name": "Statlog (Landsat Satellite)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "6435",
+        "# Attributes": "36",
+        "Year": "1993"
+    },
+    {
+        "Name": "Statlog (Image Segmentation)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "2310",
+        "# Attributes": "19",
+        "Year": "1990"
+    },
+    {
+        "Name": "Statlog (Shuttle)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "58000",
+        "# Attributes": "9",
+        "Year": ""
+    },
+    {
+        "Name": "Statlog (Vehicle Silhouettes)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "946",
+        "# Attributes": "18",
+        "Year": ""
+    },
+    {
+        "Name": "Connectionist Bench (Nettalk Corpus)",
+        "Data Types": "Multivariate",
+        "Default Task": "",
+        "Attribute Types": "Categorical",
+        "# Instances": "20008",
+        "# Attributes": "4",
+        "Year": ""
+    },
+    {
+        "Name": "Connectionist Bench (Sonar, Mines vs. Rocks)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "208",
+        "# Attributes": "60",
+        "Year": ""
+    },
+    {
+        "Name": "Connectionist Bench (Vowel Recognition - Deterding Data)",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "528",
+        "# Attributes": "10",
+        "Year": ""
+    },
+    {
+        "Name": "Economic Sanctions",
+        "Data Types": "Domain-Theory",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Protein Data",
+        "Data Types": "",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": ""
+    },
+    {
+        "Name": "Cloud",
+        "Data Types": "Multivariate",
+        "Default Task": "",
+        "Attribute Types": "Real",
+        "# Instances": "1024",
+        "# Attributes": "10",
+        "Year": "1989"
+    },
+    {
+        "Name": "CalIt2 Building People Counts",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "10080",
+        "# Attributes": "4",
+        "Year": "2006"
+    },
+    {
+        "Name": "Dodgers Loop Sensor",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "50400",
+        "# Attributes": "3",
+        "Year": "2006"
+    },
+    {
+        "Name": "Poker Hand",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "1025010",
+        "# Attributes": "11",
+        "Year": "2007"
+    },
+    {
+        "Name": "MAGIC Gamma Telescope",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "19020",
+        "# Attributes": "11",
+        "Year": "2007"
+    },
+    {
+        "Name": "UJI Pen Characters",
+        "Data Types": "Multivariate, Sequential",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "1364",
+        "# Attributes": "",
+        "Year": "2007"
+    },
+    {
+        "Name": "Mammographic Mass",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "961",
+        "# Attributes": "6",
+        "Year": "2007"
+    },
+    {
+        "Name": "Forest Fires",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "517",
+        "# Attributes": "13",
+        "Year": "2008"
+    },
+    {
+        "Name": "Reuters Transcribed Subset",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "200",
+        "# Attributes": "",
+        "Year": "2008"
+    },
+    {
+        "Name": "Bag of Words",
+        "Data Types": "Text",
+        "Default Task": "Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "8000000",
+        "# Attributes": "100000",
+        "Year": "2008"
+    },
+    {
+        "Name": "Concrete Compressive Strength",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "1030",
+        "# Attributes": "9",
+        "Year": "2007"
+    },
+    {
+        "Name": "Hill-Valley",
+        "Data Types": "Sequential",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "606",
+        "# Attributes": "101",
+        "Year": "2008"
+    },
+    {
+        "Name": "Arcene",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "900",
+        "# Attributes": "10000",
+        "Year": "2008"
+    },
+    {
+        "Name": "Dexter",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "2600",
+        "# Attributes": "20000",
+        "Year": "2008"
+    },
+    {
+        "Name": "Dorothea",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "1950",
+        "# Attributes": "100000",
+        "Year": "2008"
+    },
+    {
+        "Name": "Gisette",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "13500",
+        "# Attributes": "5000",
+        "Year": "2008"
+    },
+    {
+        "Name": "Madelon",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "4400",
+        "# Attributes": "500",
+        "Year": "2008"
+    },
+    {
+        "Name": "Ozone Level Detection",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "2536",
+        "# Attributes": "73",
+        "Year": "2008"
+    },
+    {
+        "Name": "Abscisic Acid Signaling Network",
+        "Data Types": "Multivariate",
+        "Default Task": "Causal-Discovery",
+        "Attribute Types": "Integer",
+        "# Instances": "300",
+        "# Attributes": "43",
+        "Year": "2008"
+    },
+    {
+        "Name": "Parkinsons",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "197",
+        "# Attributes": "23",
+        "Year": "2008"
+    },
+    {
+        "Name": "Character Trajectories",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "2858",
+        "# Attributes": "3",
+        "Year": "2008"
+    },
+    {
+        "Name": "Blood Transfusion Service Center",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "748",
+        "# Attributes": "5",
+        "Year": "2008"
+    },
+    {
+        "Name": "UJI Pen Characters (Version 2)",
+        "Data Types": "Multivariate, Sequential",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "11640",
+        "# Attributes": "",
+        "Year": "2009"
+    },
+    {
+        "Name": "Semeion Handwritten Digit",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "1593",
+        "# Attributes": "256",
+        "Year": "2008"
+    },
+    {
+        "Name": "SECOM",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Causal-Discovery",
+        "Attribute Types": "Real",
+        "# Instances": "1567",
+        "# Attributes": "591",
+        "Year": "2008"
+    },
+    {
+        "Name": "Plants",
+        "Data Types": "Multivariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "Categorical",
+        "# Instances": "22632",
+        "# Attributes": "70",
+        "Year": "2008"
+    },
+    {
+        "Name": "Libras Movement",
+        "Data Types": "Multivariate, Sequential",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "360",
+        "# Attributes": "91",
+        "Year": "2009"
+    },
+    {
+        "Name": "Concrete Slump Test",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "103",
+        "# Attributes": "10",
+        "Year": "2009"
+    },
+    {
+        "Name": "Communities and Crime",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "1994",
+        "# Attributes": "128",
+        "Year": "2009"
+    },
+    {
+        "Name": "Acute Inflammations",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer",
+        "# Instances": "120",
+        "# Attributes": "6",
+        "Year": "2009"
+    },
+    {
+        "Name": "Wine Quality",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "4898",
+        "# Attributes": "12",
+        "Year": "2009"
+    },
+    {
+        "Name": "URL Reputation",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "2396130",
+        "# Attributes": "3231961",
+        "Year": "2009"
+    },
+    {
+        "Name": "p53 Mutants",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "16772",
+        "# Attributes": "5409",
+        "Year": "2010"
+    },
+    {
+        "Name": "Parkinsons Telemonitoring",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "5875",
+        "# Attributes": "26",
+        "Year": "2009"
+    },
+    {
+        "Name": "Demospongiae",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "503",
+        "# Attributes": "",
+        "Year": "2010"
+    },
+    {
+        "Name": "Opinosis Opinion ⁄ Review",
+        "Data Types": "Text",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "51",
+        "# Attributes": "",
+        "Year": "2010"
+    },
+    {
+        "Name": "Breast Tissue",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "106",
+        "# Attributes": "10",
+        "Year": "2010"
+    },
+    {
+        "Name": "Cardiotocography",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "2126",
+        "# Attributes": "23",
+        "Year": "2010"
+    },
+    {
+        "Name": "Wall-Following Robot Navigation Data",
+        "Data Types": "Multivariate, Sequential",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "5456",
+        "# Attributes": "24",
+        "Year": "2010"
+    },
+    {
+        "Name": "Spoken Arabic Digit",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "8800",
+        "# Attributes": "13",
+        "Year": "2010"
+    },
+    {
+        "Name": "Localization Data for Person Activity",
+        "Data Types": "Univariate, Sequential, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "164860",
+        "# Attributes": "8",
+        "Year": "2010"
+    },
+    {
+        "Name": "AutoUniv",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical, Integer, Real",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2010"
+    },
+    {
+        "Name": "Steel Plates Faults",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "1941",
+        "# Attributes": "27",
+        "Year": "2010"
+    },
+    {
+        "Name": "MiniBooNE particle identification",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "130065",
+        "# Attributes": "50",
+        "Year": "2010"
+    },
+    {
+        "Name": "YearPredictionMSD",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "515345",
+        "# Attributes": "90",
+        "Year": "2011"
+    },
+    {
+        "Name": "PEMS-SF",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "440",
+        "# Attributes": "138672",
+        "Year": "2011"
+    },
+    {
+        "Name": "OpinRank Review Dataset",
+        "Data Types": "Text",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2011"
+    },
+    {
+        "Name": "Relative location of CT slices on axial axis",
+        "Data Types": "Domain-Theory",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "53500",
+        "# Attributes": "386",
+        "Year": "2011"
+    },
+    {
+        "Name": "Online Handwritten Assamese Characters Dataset",
+        "Data Types": "Multivariate, Sequential",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "8235",
+        "# Attributes": "",
+        "Year": "2011"
+    },
+    {
+        "Name": "PubChem Bioassay Data",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2011"
+    },
+    {
+        "Name": "Record Linkage Comparison Patterns",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "5749132",
+        "# Attributes": "12",
+        "Year": "2011"
+    },
+    {
+        "Name": "Communities and Crime Unnormalized",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "2215",
+        "# Attributes": "147",
+        "Year": "2011"
+    },
+    {
+        "Name": "Vertebral Column",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "310",
+        "# Attributes": "6",
+        "Year": "2011"
+    },
+    {
+        "Name": "EMG Physical Action Data Set",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "10000",
+        "# Attributes": "8",
+        "Year": "2011"
+    },
+    {
+        "Name": "Vicon Physical Action Data Set",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "3000",
+        "# Attributes": "27",
+        "Year": "2011"
+    },
+    {
+        "Name": "Amazon Commerce reviews set",
+        "Data Types": "Multivariate, Text, Domain-Theory",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "1500",
+        "# Attributes": "10000",
+        "Year": "2011"
+    },
+    {
+        "Name": "Amazon Access Samples",
+        "Data Types": "Time-Series, Domain-Theory",
+        "Default Task": "Regression, Clustering, Causal-Discovery",
+        "Attribute Types": "",
+        "# Instances": "30000",
+        "# Attributes": "20000",
+        "Year": "2011"
+    },
+    {
+        "Name": "Reuter_50_50",
+        "Data Types": "Multivariate, Text, Domain-Theory",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "2500",
+        "# Attributes": "10000",
+        "Year": "2011"
+    },
+    {
+        "Name": "Farm Ads",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "4143",
+        "# Attributes": "54877",
+        "Year": "2011"
+    },
+    {
+        "Name": "DBWorld e-mails",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "64",
+        "# Attributes": "4702",
+        "Year": "2011"
+    },
+    {
+        "Name": "KEGG Metabolic Relation Network (Directed)",
+        "Data Types": "Multivariate, Univariate, Text",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "53414",
+        "# Attributes": "24",
+        "Year": "2011"
+    },
+    {
+        "Name": "KEGG Metabolic Reaction Network (Undirected)",
+        "Data Types": "Multivariate, Univariate, Text",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "65554",
+        "# Attributes": "29",
+        "Year": "2011"
+    },
+    {
+        "Name": "Bank Marketing",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "45211",
+        "# Attributes": "17",
+        "Year": "2012"
+    },
+    {
+        "Name": "YouTube Comedy Slam Preference Data",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "1138562",
+        "# Attributes": "3",
+        "Year": "2012"
+    },
+    {
+        "Name": "Gas Sensor Array Drift Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "13910",
+        "# Attributes": "128",
+        "Year": "2012"
+    },
+    {
+        "Name": "ILPD (Indian Liver Patient Dataset)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "583",
+        "# Attributes": "10",
+        "Year": "2012"
+    },
+    {
+        "Name": "OPPORTUNITY Activity Recognition",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "2551",
+        "# Attributes": "242",
+        "Year": "2012"
+    },
+    {
+        "Name": "Nomao",
+        "Data Types": "Univariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "34465",
+        "# Attributes": "120",
+        "Year": "2012"
+    },
+    {
+        "Name": "SMS Spam Collection",
+        "Data Types": "Multivariate, Text, Domain-Theory",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "5574",
+        "# Attributes": "",
+        "Year": "2012"
+    },
+    {
+        "Name": "Skin Segmentation",
+        "Data Types": "Univariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "245057",
+        "# Attributes": "4",
+        "Year": "2012"
+    },
+    {
+        "Name": "Planning Relax",
+        "Data Types": "Univariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "182",
+        "# Attributes": "13",
+        "Year": "2012"
+    },
+    {
+        "Name": "PAMAP2 Physical Activity Monitoring",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "3850505",
+        "# Attributes": "52",
+        "Year": "2012"
+    },
+    {
+        "Name": "Restaurant & consumer data",
+        "Data Types": "Multivariate",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "138",
+        "# Attributes": "47",
+        "Year": "2012"
+    },
+    {
+        "Name": "CNAE-9",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "1080",
+        "# Attributes": "857",
+        "Year": "2012"
+    },
+    {
+        "Name": "Individual household electric power consumption",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "2075259",
+        "# Attributes": "9",
+        "Year": "2012"
+    },
+    {
+        "Name": "seeds",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "210",
+        "# Attributes": "7",
+        "Year": "2012"
+    },
+    {
+        "Name": "Northix",
+        "Data Types": "Multivariate, Univariate, Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "115",
+        "# Attributes": "200",
+        "Year": "2012"
+    },
+    {
+        "Name": "QtyT40I10D100K",
+        "Data Types": "Sequential",
+        "Default Task": "",
+        "Attribute Types": "Integer",
+        "# Instances": "3960456",
+        "# Attributes": "4",
+        "Year": "2012"
+    },
+    {
+        "Name": "Legal Case Reports",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2012"
+    },
+    {
+        "Name": "Human Activity Recognition Using Smartphones",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "10299",
+        "# Attributes": "561",
+        "Year": "2012"
+    },
+    {
+        "Name": "One-hundred plant species leaves data set",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "1600",
+        "# Attributes": "64",
+        "Year": "2012"
+    },
+    {
+        "Name": "Energy efficiency",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "768",
+        "# Attributes": "8",
+        "Year": "2012"
+    },
+    {
+        "Name": "Yacht Hydrodynamics",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "308",
+        "# Attributes": "7",
+        "Year": "2013"
+    },
+    {
+        "Name": "Fertility",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "100",
+        "# Attributes": "10",
+        "Year": "2013"
+    },
+    {
+        "Name": "Daphnet Freezing of Gait",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "237",
+        "# Attributes": "9",
+        "Year": "2013"
+    },
+    {
+        "Name": "3D Road Network (North Jutland, Denmark)",
+        "Data Types": "Sequential, Text",
+        "Default Task": "Regression, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "434874",
+        "# Attributes": "4",
+        "Year": "2013"
+    },
+    {
+        "Name": "ISTANBUL STOCK EXCHANGE",
+        "Data Types": "Multivariate, Univariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "536",
+        "# Attributes": "8",
+        "Year": "2013"
+    },
+    {
+        "Name": "Buzz in social media ",
+        "Data Types": "Time-Series, Multivariate",
+        "Default Task": "Regression, Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "140000",
+        "# Attributes": "77",
+        "Year": "2013"
+    },
+    {
+        "Name": "First-order theorem proving",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "6118",
+        "# Attributes": "51",
+        "Year": "2013"
+    },
+    {
+        "Name": "Wearable Computing: Classification of Body Postures and Movements (PUC-Rio)",
+        "Data Types": "Sequential",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "165632",
+        "# Attributes": "18",
+        "Year": "2013"
+    },
+    {
+        "Name": "Gas sensor arrays in open sampling settings",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "18000",
+        "# Attributes": "1950000",
+        "Year": "2013"
+    },
+    {
+        "Name": "Climate Model Simulation Crashes",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "540",
+        "# Attributes": "18",
+        "Year": "2013"
+    },
+    {
+        "Name": "MicroMass",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "931",
+        "# Attributes": "1300",
+        "Year": "2013"
+    },
+    {
+        "Name": "QSAR biodegradation",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "1055",
+        "# Attributes": "41",
+        "Year": "2013"
+    },
+    {
+        "Name": "BLOGGER",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "100",
+        "# Attributes": "6",
+        "Year": "2013"
+    },
+    {
+        "Name": "Daily and Sports Activities",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "9120",
+        "# Attributes": "5625",
+        "Year": "2013"
+    },
+    {
+        "Name": "User Knowledge Modeling",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "403",
+        "# Attributes": "5",
+        "Year": "2013"
+    },
+    {
+        "Name": "Reuters RCV1 RCV2 Multilingual, Multiview Text Categorization Test collection",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "111740",
+        "# Attributes": "",
+        "Year": "2013"
+    },
+    {
+        "Name": "NYSK",
+        "Data Types": "Multivariate, Sequential, Text",
+        "Default Task": "Clustering",
+        "Attribute Types": "",
+        "# Instances": "10421",
+        "# Attributes": "7",
+        "Year": "2013"
+    },
+    {
+        "Name": "Turkiye Student Evaluation",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "5820",
+        "# Attributes": "33",
+        "Year": "2013"
+    },
+    {
+        "Name": "ser Knowledge Modeling Data (Students' Knowledge Levels on DC Electrical Machines)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "403",
+        "# Attributes": "5",
+        "Year": "2013"
+    },
+    {
+        "Name": "EEG Eye State",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "14980",
+        "# Attributes": "15",
+        "Year": "2013"
+    },
+    {
+        "Name": "Physicochemical Properties of Protein Tertiary Structure",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "45730",
+        "# Attributes": "9",
+        "Year": "2013"
+    },
+    {
+        "Name": "seismic-bumps",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "2584",
+        "# Attributes": "19",
+        "Year": "2013"
+    },
+    {
+        "Name": "banknote authentication",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "1372",
+        "# Attributes": "5",
+        "Year": "2013"
+    },
+    {
+        "Name": "USPTO Algorithm Challenge, run by NASA-Harvard Tournament Lab and TopCoder    Problem: Pat",
+        "Data Types": "Domain-Theory",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "306",
+        "# Attributes": "5",
+        "Year": "2013"
+    },
+    {
+        "Name": "YouTube Multiview Video Games Dataset",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "120000",
+        "# Attributes": "1000000",
+        "Year": "2013"
+    },
+    {
+        "Name": "Gas Sensor Array Drift Dataset at Different Concentrations",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression, Clustering, Causa",
+        "Attribute Types": "Real",
+        "# Instances": "13910",
+        "# Attributes": "129",
+        "Year": "2013"
+    },
+    {
+        "Name": "Activities of Daily Living (ADLs) Recognition Using Binary Sensors",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "2747",
+        "# Attributes": "",
+        "Year": "2013"
+    },
+    {
+        "Name": "SkillCraft1 Master Table Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "3395",
+        "# Attributes": "20",
+        "Year": "2013"
+    },
+    {
+        "Name": "Weight Lifting Exercises monitored with Inertial Measurement Units",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "39242",
+        "# Attributes": "152",
+        "Year": "2013"
+    },
+    {
+        "Name": "SML2010",
+        "Data Types": "Multivariate, Sequential, Time-Series, Text",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "4137",
+        "# Attributes": "24",
+        "Year": "2014"
+    },
+    {
+        "Name": "Bike Sharing Dataset",
+        "Data Types": "Univariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "17389",
+        "# Attributes": "16",
+        "Year": "2013"
+    },
+    {
+        "Name": "Predict keywords activities in a online social media",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "51",
+        "# Attributes": "35",
+        "Year": "2013"
+    },
+    {
+        "Name": "Thoracic Surgery Data",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "470",
+        "# Attributes": "17",
+        "Year": "2013"
+    },
+    {
+        "Name": "EMG dataset in Lower Limb",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "",
+        "Attribute Types": "Real",
+        "# Instances": "132",
+        "# Attributes": "5",
+        "Year": "2014"
+    },
+    {
+        "Name": "SUSY",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "5000000",
+        "# Attributes": "18",
+        "Year": "2014"
+    },
+    {
+        "Name": "HIGGS",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "11000000",
+        "# Attributes": "28",
+        "Year": "2014"
+    },
+    {
+        "Name": "Qualitative_Bankruptcy",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "250",
+        "# Attributes": "7",
+        "Year": "2014"
+    },
+    {
+        "Name": "LSVT Voice Rehabilitation",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "126",
+        "# Attributes": "309",
+        "Year": "2014"
+    },
+    {
+        "Name": "Dataset for ADL Recognition with Wrist-worn Accelerometer",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "",
+        "# Attributes": "3",
+        "Year": "2014"
+    },
+    {
+        "Name": "Wilt",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "4889",
+        "# Attributes": "6",
+        "Year": "2014"
+    },
+    {
+        "Name": "User Identification From Walking Activity",
+        "Data Types": "Univariate, Sequential, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2014"
+    },
+    {
+        "Name": "Activity Recognition from Single Chest-Mounted Accelerometer",
+        "Data Types": "Univariate, Sequential, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2014"
+    },
+    {
+        "Name": "Leaf",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "340",
+        "# Attributes": "16",
+        "Year": "2014"
+    },
+    {
+        "Name": "Dresses_Attribute_Sales",
+        "Data Types": "Text",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "501",
+        "# Attributes": "13",
+        "Year": "2014"
+    },
+    {
+        "Name": "Tamilnadu Electricity Board Hourly Readings",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "45781",
+        "# Attributes": "5",
+        "Year": "2013"
+    },
+    {
+        "Name": "Airfoil Self-Noise",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "1503",
+        "# Attributes": "6",
+        "Year": "2014"
+    },
+    {
+        "Name": "Wholesale customers",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "440",
+        "# Attributes": "8",
+        "Year": "2014"
+    },
+    {
+        "Name": "Twitter Data set for Arabic Sentiment Analysis",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "2000",
+        "# Attributes": "2",
+        "Year": "2014"
+    },
+    {
+        "Name": "Combined Cycle Power Plant",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "9568",
+        "# Attributes": "4",
+        "Year": "2014"
+    },
+    {
+        "Name": "Urban Land Cover",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "168",
+        "# Attributes": "148",
+        "Year": "2014"
+    },
+    {
+        "Name": "Diabetes 130-US hospitals for years 1999-2008",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "100000",
+        "# Attributes": "55",
+        "Year": "2014"
+    },
+    {
+        "Name": "Bach Choral Harmony",
+        "Data Types": "Sequential",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "5665",
+        "# Attributes": "17",
+        "Year": "2014"
+    },
+    {
+        "Name": "StoneFlakes",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering, Causal-Discovery",
+        "Attribute Types": "Real",
+        "# Instances": "79",
+        "# Attributes": "8",
+        "Year": "2014"
+    },
+    {
+        "Name": "Tennis Major Tournament Match Statistics",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "127",
+        "# Attributes": "42",
+        "Year": "2014"
+    },
+    {
+        "Name": "Parkinson Speech Dataset with  Multiple Types of Sound Recordings",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "1040",
+        "# Attributes": "26",
+        "Year": "2014"
+    },
+    {
+        "Name": "Gesture Phase Segmentation",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "9900",
+        "# Attributes": "50",
+        "Year": "2014"
+    },
+    {
+        "Name": "Perfume Data",
+        "Data Types": "Univariate, Domain-Theory",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "560",
+        "# Attributes": "2",
+        "Year": "2014"
+    },
+    {
+        "Name": "BlogFeedback",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "60021",
+        "# Attributes": "281",
+        "Year": "2014"
+    },
+    {
+        "Name": "REALDISP Activity Recognition Dataset",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "1419",
+        "# Attributes": "120",
+        "Year": "2014"
+    },
+    {
+        "Name": "Newspaper and magazine images segmentation dataset",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "101",
+        "# Attributes": "",
+        "Year": "2014"
+    },
+    {
+        "Name": "AAAI 2014 Accepted Papers",
+        "Data Types": "Multivariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "",
+        "# Instances": "399",
+        "# Attributes": "6",
+        "Year": "2014"
+    },
+    {
+        "Name": "Gas sensor array under flow modulation",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "58",
+        "# Attributes": "120432",
+        "Year": "2014"
+    },
+    {
+        "Name": "Gas sensor array exposed to turbulent gas mixtures",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "180",
+        "# Attributes": "150000",
+        "Year": "2014"
+    },
+    {
+        "Name": "UJIIndoorLoc",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "21048",
+        "# Attributes": "529",
+        "Year": "2014"
+    },
+    {
+        "Name": "Sentence Classification",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2014"
+    },
+    {
+        "Name": "Dow Jones Index",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "750",
+        "# Attributes": "16",
+        "Year": "2014"
+    },
+    {
+        "Name": "sEMG for Basic Hand movements",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "3000",
+        "# Attributes": "2500",
+        "Year": "2014"
+    },
+    {
+        "Name": "AAAI 2013 Accepted Papers",
+        "Data Types": "Multivariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "",
+        "# Instances": "150",
+        "# Attributes": "5",
+        "Year": "2014"
+    },
+    {
+        "Name": "Geographical Original of Music",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "1059",
+        "# Attributes": "68",
+        "Year": "2014"
+    },
+    {
+        "Name": "Condition Based Maintenance of Naval Propulsion Plants",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "11934",
+        "# Attributes": "16",
+        "Year": "2014"
+    },
+    {
+        "Name": "Grammatical Facial Expressions",
+        "Data Types": "Multivariate, Sequential",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "27965",
+        "# Attributes": "100",
+        "Year": "2014"
+    },
+    {
+        "Name": "NoisyOffice",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "216",
+        "# Attributes": "216",
+        "Year": "2015"
+    },
+    {
+        "Name": "MHEALTH Dataset",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "120",
+        "# Attributes": "23",
+        "Year": "2014"
+    },
+    {
+        "Name": "Student Performance",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "649",
+        "# Attributes": "33",
+        "Year": "2014"
+    },
+    {
+        "Name": "ElectricityLoadDiagrams20112014",
+        "Data Types": "Time-Series",
+        "Default Task": "Regression, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "370",
+        "# Attributes": "140256",
+        "Year": "2015"
+    },
+    {
+        "Name": "Gas sensor array under dynamic gas mixtures",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "4178504",
+        "# Attributes": "19",
+        "Year": "2015"
+    },
+    {
+        "Name": "microblogPCU",
+        "Data Types": "Multivariate, Univariate, Sequential, Text",
+        "Default Task": "Classification, Causal-Discovery",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "221579",
+        "# Attributes": "20",
+        "Year": "2015"
+    },
+    {
+        "Name": "Firm-Teacher_Clave-Direction_Classification",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "10800",
+        "# Attributes": "20",
+        "Year": "2015"
+    },
+    {
+        "Name": "Dataset for Sensorless Drive Diagnosis",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "58509",
+        "# Attributes": "49",
+        "Year": "2015"
+    },
+    {
+        "Name": "TV News Channel Commercial Detection Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "129685",
+        "# Attributes": "12",
+        "Year": "2015"
+    },
+    {
+        "Name": "Phishing Websites",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "2456",
+        "# Attributes": "30",
+        "Year": "2015"
+    },
+    {
+        "Name": "Greenhouse Gas Observing Network",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "2921",
+        "# Attributes": "5232",
+        "Year": "2015"
+    },
+    {
+        "Name": "Diabetic Retinopathy Debrecen Data Set",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "1151",
+        "# Attributes": "20",
+        "Year": "2014"
+    },
+    {
+        "Name": "HIV-1 protease cleavage",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Categorical",
+        "# Instances": "6590",
+        "# Attributes": "1",
+        "Year": "2015"
+    },
+    {
+        "Name": "Sentiment Labelled Sentences",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "3000",
+        "# Attributes": "",
+        "Year": "2015"
+    },
+    {
+        "Name": "Online News Popularity",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "39797",
+        "# Attributes": "61",
+        "Year": "2015"
+    },
+    {
+        "Name": "Forest type mapping",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "326",
+        "# Attributes": "27",
+        "Year": "2015"
+    },
+    {
+        "Name": "wiki4HE",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression, Clustering, Causal-Discovery",
+        "Attribute Types": "",
+        "# Instances": "913",
+        "# Attributes": "53",
+        "Year": "2015"
+    },
+    {
+        "Name": "Online Video Characteristics and Transcoding Time Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "168286",
+        "# Attributes": "11",
+        "Year": "2015"
+    },
+    {
+        "Name": "Chronic_Kidney_Disease",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "400",
+        "# Attributes": "25",
+        "Year": "2015"
+    },
+    {
+        "Name": "Machine Learning based ZZAlpha Ltd. Stock Recommendations 2012-2014",
+        "Data Types": "Sequential, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "314080",
+        "# Attributes": "0",
+        "Year": "2015"
+    },
+    {
+        "Name": "Folio",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "637",
+        "# Attributes": "20",
+        "Year": "2015"
+    },
+    {
+        "Name": "Taxi Service Trajectory - Prediction Challenge, ECML PKDD 2015",
+        "Data Types": "Multivariate, Sequential, Time-Series, Domain-Theory",
+        "Default Task": "Clustering, Causal-Discovery",
+        "Attribute Types": "Real",
+        "# Instances": "1710671",
+        "# Attributes": "9",
+        "Year": "2015"
+    },
+    {
+        "Name": "Cuff-Less Blood Pressure Estimation",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "12000",
+        "# Attributes": "3",
+        "Year": "2015"
+    },
+    {
+        "Name": "Smartphone-Based Recognition of Human Activities and Postural Transitions",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "10929",
+        "# Attributes": "561",
+        "Year": "2015"
+    },
+    {
+        "Name": "Mice Protein Expression",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "1080",
+        "# Attributes": "82",
+        "Year": "2015"
+    },
+    {
+        "Name": "UJIIndoorLoc-Mag",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "40000",
+        "# Attributes": "13",
+        "Year": "2015"
+    },
+    {
+        "Name": "Heterogeneity Activity Recognition",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "43930257",
+        "# Attributes": "16",
+        "Year": "2015"
+    },
+    {
+        "Name": "Educational Process Mining (EPM): A Learning Analytics Data Set",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "230318",
+        "# Attributes": "13",
+        "Year": "2015"
+    },
+    {
+        "Name": "HEPMASS",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "10500000",
+        "# Attributes": "28",
+        "Year": "2016"
+    },
+    {
+        "Name": "Indoor User Movement Prediction from RSS data",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "13197",
+        "# Attributes": "4",
+        "Year": "2016"
+    },
+    {
+        "Name": "Open University Learning Analytics dataset",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2015"
+    },
+    {
+        "Name": "default of credit card clients",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "30000",
+        "# Attributes": "24",
+        "Year": "2016"
+    },
+    {
+        "Name": "Mesothelioma‚Äôs disease data set ",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "324",
+        "# Attributes": "34",
+        "Year": "2016"
+    },
+    {
+        "Name": "Online Retail",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "541909",
+        "# Attributes": "8",
+        "Year": "2015"
+    },
+    {
+        "Name": "SIFT10M",
+        "Data Types": "Multivariate",
+        "Default Task": "Causal-Discovery",
+        "Attribute Types": "Integer",
+        "# Instances": "11164866",
+        "# Attributes": "128",
+        "Year": "2016"
+    },
+    {
+        "Name": "GPS Trajectories",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "163",
+        "# Attributes": "15",
+        "Year": "2016"
+    },
+    {
+        "Name": "Detect Malacious Executable(AntiVirus)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "373",
+        "# Attributes": "513",
+        "Year": "2016"
+    },
+    {
+        "Name": "Occupancy Detection ",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "20560",
+        "# Attributes": "7",
+        "Year": "2016"
+    },
+    {
+        "Name": "Improved Spiral Test Using Digitized Graphics Tablet for Monitoring Parkinson‚Äôs Disease",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "40",
+        "# Attributes": "7",
+        "Year": "2016"
+    },
+    {
+        "Name": "News Aggregator",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "422937",
+        "# Attributes": "5",
+        "Year": "2016"
+    },
+    {
+        "Name": "Air Quality",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "9358",
+        "# Attributes": "15",
+        "Year": "2016"
+    },
+    {
+        "Name": "Twin gas sensor arrays",
+        "Data Types": "Multivariate, Time-Series, Domain-Theory",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "640",
+        "# Attributes": "480000",
+        "Year": "2016"
+    },
+    {
+        "Name": "Gas sensors for home activity monitoring",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "919438",
+        "# Attributes": "11",
+        "Year": "2016"
+    },
+    {
+        "Name": "Facebook Comment Volume Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "40949",
+        "# Attributes": "54",
+        "Year": "2016"
+    },
+    {
+        "Name": "Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL)",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "5744",
+        "# Attributes": "561",
+        "Year": "2016"
+    },
+    {
+        "Name": "Polish companies bankruptcy data",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "10503",
+        "# Attributes": "64",
+        "Year": "2016"
+    },
+    {
+        "Name": "Activity Recognition system based on Multisensor data fusion (AReM)",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "42240",
+        "# Attributes": "6",
+        "Year": "2016"
+    },
+    {
+        "Name": "Dota2 Games Results",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "102944",
+        "# Attributes": "116",
+        "Year": "2016"
+    },
+    {
+        "Name": "Facebook metrics",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "500",
+        "# Attributes": "19",
+        "Year": "2016"
+    },
+    {
+        "Name": "UbiqLog (smartphone lifelogging)",
+        "Data Types": "Multivariate",
+        "Default Task": "Causal-Discovery",
+        "Attribute Types": "",
+        "# Instances": "9782222",
+        "# Attributes": "",
+        "Year": "2016"
+    },
+    {
+        "Name": "NIPS Conference Papers 1987-2015",
+        "Data Types": "Text",
+        "Default Task": "Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "11463",
+        "# Attributes": "5812",
+        "Year": "2016"
+    },
+    {
+        "Name": "HTRU2",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "17898",
+        "# Attributes": "9",
+        "Year": "2017"
+    },
+    {
+        "Name": "Drug consumption (quantified)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "1885",
+        "# Attributes": "32",
+        "Year": "2016"
+    },
+    {
+        "Name": "Appliances energy prediction",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "19735",
+        "# Attributes": "29",
+        "Year": "2017"
+    },
+    {
+        "Name": "Miskolc IIS Hybrid IPS",
+        "Data Types": "Text",
+        "Default Task": "Classification, Clustering, Causal-Discovery",
+        "Attribute Types": "Integer",
+        "# Instances": "1540",
+        "# Attributes": "67",
+        "Year": "2016"
+    },
+    {
+        "Name": "KDC-4007 dataset Collection",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "4007",
+        "# Attributes": "",
+        "Year": "2017"
+    },
+    {
+        "Name": "Geo-Magnetic field and WLAN dataset for indoor localisation from wristband and smartphone",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "153540",
+        "# Attributes": "25",
+        "Year": "2017"
+    },
+    {
+        "Name": "DrivFace",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "606",
+        "# Attributes": "6400",
+        "Year": "2016"
+    },
+    {
+        "Name": "Website Phishing",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "1353",
+        "# Attributes": "10",
+        "Year": "2016"
+    },
+    {
+        "Name": "YouTube Spam Collection",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "1956",
+        "# Attributes": "5",
+        "Year": "2017"
+    },
+    {
+        "Name": "Beijing PM2.5 Data",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "43824",
+        "# Attributes": "13",
+        "Year": "2017"
+    },
+    {
+        "Name": "Cargo 2000 Freight Tracking and Tracing",
+        "Data Types": "Multivariate, Sequential",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "3942",
+        "# Attributes": "98",
+        "Year": "2016"
+    },
+    {
+        "Name": "Cervical cancer (Risk Factors)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "858",
+        "# Attributes": "36",
+        "Year": "2017"
+    },
+    {
+        "Name": "Quality Assessment of Digital Colposcopies",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "287",
+        "# Attributes": "69",
+        "Year": "2017"
+    },
+    {
+        "Name": "KASANDR",
+        "Data Types": "Multivariate",
+        "Default Task": "Causal-Discovery",
+        "Attribute Types": "Integer",
+        "# Instances": "17764280",
+        "# Attributes": "2158859",
+        "Year": "2017"
+    },
+    {
+        "Name": "FMA: A Dataset For Music Analysis",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "106574",
+        "# Attributes": "518",
+        "Year": "2017"
+    },
+    {
+        "Name": "Air quality",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "9358",
+        "# Attributes": "15",
+        "Year": "2016"
+    },
+    {
+        "Name": "Epileptic Seizure Recognition",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "11500",
+        "# Attributes": "179",
+        "Year": "2017"
+    },
+    {
+        "Name": "Devanagari Handwritten Character Dataset",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "92000",
+        "# Attributes": "",
+        "Year": "2016"
+    },
+    {
+        "Name": "Stock portfolio performance",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "315",
+        "# Attributes": "12",
+        "Year": "2016"
+    },
+    {
+        "Name": "MoCap Hand Postures",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "78095",
+        "# Attributes": "38",
+        "Year": "2016"
+    },
+    {
+        "Name": "Early biomarkers of Parkinsonís disease based on natural connected speech",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "130",
+        "# Attributes": "65",
+        "Year": "2017"
+    },
+    {
+        "Name": "Data for Software Engineering Teamwork Assessment in Education Setting",
+        "Data Types": "Sequential, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "74",
+        "# Attributes": "102",
+        "Year": "2017"
+    },
+    {
+        "Name": "PM2.5 Data of Five Chinese Cities",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "52854",
+        "# Attributes": "86",
+        "Year": "2017"
+    },
+    {
+        "Name": "Parkinson Disease Spiral Drawings Using Digitized Graphics Tablet",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "77",
+        "# Attributes": "7",
+        "Year": "2017"
+    },
+    {
+        "Name": "Sales_Transactions_Dataset_Weekly",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "811",
+        "# Attributes": "53",
+        "Year": "2017"
+    },
+    {
+        "Name": "Las Vegas Strip",
+        "Data Types": "",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "504",
+        "# Attributes": "20",
+        "Year": "2017"
+    },
+    {
+        "Name": "Eco-hotel",
+        "Data Types": "Text",
+        "Default Task": "",
+        "Attribute Types": "",
+        "# Instances": "401",
+        "# Attributes": "1",
+        "Year": "2017"
+    },
+    {
+        "Name": "MEU-Mobile KSD",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "2856",
+        "# Attributes": "71",
+        "Year": "2016"
+    },
+    {
+        "Name": "Crowdsourced Mapping",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "10546",
+        "# Attributes": "29",
+        "Year": "2016"
+    },
+    {
+        "Name": "gene expression cancer RNA-Seq",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "801",
+        "# Attributes": "20531",
+        "Year": "2016"
+    },
+    {
+        "Name": "Hybrid Indoor Positioning Dataset from WiFi RSSI, Bluetooth and magnetometer",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "1540",
+        "# Attributes": "65",
+        "Year": "2016"
+    },
+    {
+        "Name": "chestnut ‚Äì LARVIC",
+        "Data Types": "",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "1451",
+        "# Attributes": "3",
+        "Year": "2017"
+    },
+    {
+        "Name": "Burst Header Packet (BHP) flooding attack on Optical Burst Switching (OBS) Network",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "1075",
+        "# Attributes": "22",
+        "Year": "2017"
+    },
+    {
+        "Name": "Motion Capture Hand Postures",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "78095",
+        "# Attributes": "38",
+        "Year": "2017"
+    },
+    {
+        "Name": "Anuran Calls (MFCCs)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "7195",
+        "# Attributes": "22",
+        "Year": "2017"
+    },
+    {
+        "Name": "TTC-3600: Benchmark dataset for Turkish text categorization",
+        "Data Types": "Text",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "3600",
+        "# Attributes": "4814",
+        "Year": "2017"
+    },
+    {
+        "Name": "Gastrointestinal Lesions in Regular Colonoscopy",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "76",
+        "# Attributes": "698",
+        "Year": "2016"
+    },
+    {
+        "Name": "Daily Demand Forecasting Orders",
+        "Data Types": "Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "60",
+        "# Attributes": "13",
+        "Year": "2017"
+    },
+    {
+        "Name": "Paper Reviews",
+        "Data Types": "Text",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "405",
+        "# Attributes": "10",
+        "Year": "2017"
+    },
+    {
+        "Name": "extention of Z-Alizadeh sani dataset",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "303",
+        "# Attributes": "59",
+        "Year": "2017"
+    },
+    {
+        "Name": "Z-Alizadeh Sani",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "303",
+        "# Attributes": "56",
+        "Year": "2017"
+    },
+    {
+        "Name": "Dynamic Features of VirusShare Executables",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "107888",
+        "# Attributes": "482",
+        "Year": "2017"
+    },
+    {
+        "Name": "IDA2016Challenge",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "76000",
+        "# Attributes": "171",
+        "Year": "2017"
+    },
+    {
+        "Name": "DSRC Vehicle Communications",
+        "Data Types": "Sequential, Text",
+        "Default Task": "Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "10000",
+        "# Attributes": "5",
+        "Year": "2017"
+    },
+    {
+        "Name": "Mturk User-Perceived Clusters over Images",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "180",
+        "# Attributes": "500",
+        "Year": "2016"
+    },
+    {
+        "Name": "Character Font Images",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "745000",
+        "# Attributes": "411",
+        "Year": "2016"
+    },
+    {
+        "Name": "DeliciousMIL: A Data Set for Multi-Label Multi-Instance Learning with Instance Labels",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "12234",
+        "# Attributes": "8519",
+        "Year": "2016"
+    },
+    {
+        "Name": "Autistic Spectrum Disorder Screening Data for Children  ",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "292",
+        "# Attributes": "21",
+        "Year": "2017"
+    },
+    {
+        "Name": "Autistic Spectrum Disorder Screening Data for Adolescent   ",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "104",
+        "# Attributes": "21",
+        "Year": "2017"
+    },
+    {
+        "Name": "APS Failure at Scania Trucks",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "60000",
+        "# Attributes": "171",
+        "Year": "2017"
+    },
+    {
+        "Name": "Wireless Indoor Localization",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "2000",
+        "# Attributes": "7",
+        "Year": "2017"
+    },
+    {
+        "Name": "HCC Survival",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "165",
+        "# Attributes": "49",
+        "Year": "2017"
+    },
+    {
+        "Name": "CSM (Conventional and Social Media Movies) Dataset 2014 and 2015",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "217",
+        "# Attributes": "12",
+        "Year": "2017"
+    },
+    {
+        "Name": "University of Tehran Question Dataset 2016 (UTQD.2016)",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "1175",
+        "# Attributes": "3",
+        "Year": "2017"
+    },
+    {
+        "Name": "Autism Screening Adult",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "704",
+        "# Attributes": "21",
+        "Year": "2017"
+    },
+    {
+        "Name": "Activity recognition with healthy older people using a batteryless wearable sensor",
+        "Data Types": "Sequential",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "75128",
+        "# Attributes": "9",
+        "Year": "2016"
+    },
+    {
+        "Name": "Immunotherapy Dataset",
+        "Data Types": "Univariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "90",
+        "# Attributes": "8",
+        "Year": "2018"
+    },
+    {
+        "Name": "Cryotherapy Dataset ",
+        "Data Types": "Univariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "90",
+        "# Attributes": "7",
+        "Year": "2018"
+    },
+    {
+        "Name": "OCT data & Color Fundus Images of Left & Right Eyes",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "50",
+        "# Attributes": "2",
+        "Year": "2016"
+    },
+    {
+        "Name": "Discrete Tone Image Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "71",
+        "# Attributes": "11",
+        "Year": "2018"
+    },
+    {
+        "Name": "News Popularity in Multiple Social Media Platforms",
+        "Data Types": "Multivariate, Time-Series, Text",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "93239",
+        "# Attributes": "11",
+        "Year": "2018"
+    },
+    {
+        "Name": "Ultrasonic flowmeter diagnostics",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "540",
+        "# Attributes": "173",
+        "Year": "2018"
+    },
+    {
+        "Name": "ICMLA 2014 Accepted Papers Data Set",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "105",
+        "# Attributes": "5",
+        "Year": "2018"
+    },
+    {
+        "Name": "BLE RSSI Dataset for Indoor localization and Navigation",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "6611",
+        "# Attributes": "15",
+        "Year": "2018"
+    },
+    {
+        "Name": "Container Crane Controller Data Set",
+        "Data Types": "Univariate, Domain-Theory",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "15",
+        "# Attributes": "3",
+        "Year": "2018"
+    },
+    {
+        "Name": "Residential Building Data Set",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "372",
+        "# Attributes": "105",
+        "Year": "2018"
+    },
+    {
+        "Name": "Health News in Twitter",
+        "Data Types": "Text",
+        "Default Task": "Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "58000",
+        "# Attributes": "25000",
+        "Year": "2018"
+    },
+    {
+        "Name": "chipseq",
+        "Data Types": "Sequential",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "4960",
+        "# Attributes": "",
+        "Year": "2018"
+    },
+    {
+        "Name": "SGEMM GPU kernel performance",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "241600",
+        "# Attributes": "18",
+        "Year": "2018"
+    },
+    {
+        "Name": "Repeat Consumption Matrices",
+        "Data Types": "Multivariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "130000",
+        "# Attributes": "21000",
+        "Year": "2018"
+    },
+    {
+        "Name": "detection_of_IoT_botnet_attacks_N_BaIoT",
+        "Data Types": "Multivariate, Sequential",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "7062606",
+        "# Attributes": "115",
+        "Year": "2018"
+    },
+    {
+        "Name": "Absenteeism at work",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "740",
+        "# Attributes": "21",
+        "Year": "2018"
+    },
+    {
+        "Name": "SCADI",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "70",
+        "# Attributes": "206",
+        "Year": "2018"
+    },
+    {
+        "Name": "Condition monitoring of hydraulic systems",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "2205",
+        "# Attributes": "43680",
+        "Year": "2018"
+    },
+    {
+        "Name": "Carbon Nanotubes",
+        "Data Types": "Univariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "10721",
+        "# Attributes": "8",
+        "Year": "2018"
+    },
+    {
+        "Name": "Optical Interconnection Network ",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "640",
+        "# Attributes": "10",
+        "Year": "2018"
+    },
+    {
+        "Name": "Sports articles for objectivity analysis",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "1000",
+        "# Attributes": "59",
+        "Year": "2018"
+    },
+    {
+        "Name": "Breast Cancer Coimbra",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "116",
+        "# Attributes": "10",
+        "Year": "2018"
+    },
+    {
+        "Name": "GNFUV Unmanned Surface Vehicles Sensor Data",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "1672",
+        "# Attributes": "5",
+        "Year": "2018"
+    },
+    {
+        "Name": "Dishonest Internet users Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "322",
+        "# Attributes": "5",
+        "Year": "2018"
+    },
+    {
+        "Name": "Victorian Era Authorship Attribution",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "93600",
+        "# Attributes": "1000",
+        "Year": "2018"
+    },
+    {
+        "Name": "Simulated Falls and Daily Living Activities Data Set",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "3060",
+        "# Attributes": "138",
+        "Year": "2018"
+    },
+    {
+        "Name": "Multimodal Damage Identification for Humanitarian Computing",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "5879",
+        "# Attributes": "",
+        "Year": "2018"
+    },
+    {
+        "Name": "EEG Steady-State Visual Evoked Potential Signals",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "9200",
+        "# Attributes": "16",
+        "Year": "2018"
+    },
+    {
+        "Name": "Roman Urdu Data Set",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "20000",
+        "# Attributes": "2",
+        "Year": "2018"
+    },
+    {
+        "Name": "Avila",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "20867",
+        "# Attributes": "10",
+        "Year": "2018"
+    },
+    {
+        "Name": "PANDOR",
+        "Data Types": "Multivariate",
+        "Default Task": "Recommendation",
+        "Attribute Types": "Categorical",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2018"
+    },
+    {
+        "Name": "Drug Review Dataset (Druglib.com)",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "4143",
+        "# Attributes": "8",
+        "Year": "2018"
+    },
+    {
+        "Name": "Drug Review Dataset (Drugs.com)",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "215063",
+        "# Attributes": "6",
+        "Year": "2018"
+    },
+    {
+        "Name": "Physical Unclonable Functions",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "6000000",
+        "# Attributes": "129",
+        "Year": "2018"
+    },
+    {
+        "Name": "Superconductivty Data",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "21263",
+        "# Attributes": "81",
+        "Year": "2018"
+    },
+    {
+        "Name": "WESAD (Wearable Stress and Affect Detection)",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "63000000",
+        "# Attributes": "12",
+        "Year": "2018"
+    },
+    {
+        "Name": "GNFUV Unmanned Surface Vehicles Sensor Data Set 2",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "10190",
+        "# Attributes": "6",
+        "Year": "2018"
+    },
+    {
+        "Name": "Student Academics Performance",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "300",
+        "# Attributes": "22",
+        "Year": "2018"
+    },
+    {
+        "Name": "Online Shoppers Purchasing Intention Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "12330",
+        "# Attributes": "18",
+        "Year": "2018"
+    },
+    {
+        "Name": "PMU-UD",
+        "Data Types": "Univariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "5180",
+        "# Attributes": "9",
+        "Year": "2018"
+    },
+    {
+        "Name": "Parkinson's Disease Classification",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "756",
+        "# Attributes": "754",
+        "Year": "2018"
+    },
+    {
+        "Name": "Electrical Grid Stability Simulated Data ",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "10000",
+        "# Attributes": "14",
+        "Year": "2018"
+    },
+    {
+        "Name": "Caesarian Section Classification Dataset",
+        "Data Types": "Univariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "80",
+        "# Attributes": "5",
+        "Year": "2018"
+    },
+    {
+        "Name": "BAUM-1",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "1184",
+        "# Attributes": "",
+        "Year": "2018"
+    },
+    {
+        "Name": "BAUM-2",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "1047",
+        "# Attributes": "",
+        "Year": "2018"
+    },
+    {
+        "Name": "Audit Data",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "777",
+        "# Attributes": "18",
+        "Year": "2018"
+    },
+    {
+        "Name": "BuddyMove Data Set",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "249",
+        "# Attributes": "7",
+        "Year": "2018"
+    },
+    {
+        "Name": "Real estate valuation data set",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "414",
+        "# Attributes": "7",
+        "Year": "2018"
+    },
+    {
+        "Name": "Early biomarkers of Parkinson‚Äôs disease based on natural connected speech Data Set ",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2018"
+    },
+    {
+        "Name": "Somerville Happiness Survey",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "143",
+        "# Attributes": "7",
+        "Year": "2018"
+    },
+    {
+        "Name": "2.4 GHZ Indoor Channel Measurements",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "7840",
+        "# Attributes": "5",
+        "Year": "2018"
+    },
+    {
+        "Name": "EMG data for gestures",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "30000",
+        "# Attributes": "6",
+        "Year": "2019"
+    },
+    {
+        "Name": "Parking Birmingham",
+        "Data Types": "Multivariate, Univariate, Sequential, Time-Series",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "35717",
+        "# Attributes": "4",
+        "Year": "2019"
+    },
+    {
+        "Name": "Behavior of the urban traffic of the city of Sao Paulo in Brazil",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "135",
+        "# Attributes": "18",
+        "Year": "2018"
+    },
+    {
+        "Name": "Travel Reviews",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "980",
+        "# Attributes": "11",
+        "Year": "2018"
+    },
+    {
+        "Name": "Tarvel Review Ratings",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "5456",
+        "# Attributes": "25",
+        "Year": "2018"
+    },
+    {
+        "Name": "Rice Leaf Diseases",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "120",
+        "# Attributes": "",
+        "Year": "2019"
+    },
+    {
+        "Name": "Gas sensor array temperature modulation",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "4095000",
+        "# Attributes": "20",
+        "Year": "2019"
+    },
+    {
+        "Name": "Facebook Live Sellers in Thailand",
+        "Data Types": "Multivariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "7051",
+        "# Attributes": "12",
+        "Year": "2019"
+    },
+    {
+        "Name": "Parkinson Dataset with replicated acoustic features ",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "240",
+        "# Attributes": "46",
+        "Year": "2019"
+    },
+    {
+        "Name": "Metro Interstate Traffic Volume",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "48204",
+        "# Attributes": "9",
+        "Year": "2019"
+    },
+    {
+        "Name": "Query Analytics Workloads Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "260000",
+        "# Attributes": "8",
+        "Year": "2019"
+    },
+    {
+        "Name": "Wave Energy Converters",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "288000",
+        "# Attributes": "49",
+        "Year": "2019"
+    },
+    {
+        "Name": "PPG-DaLiA",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "8300000",
+        "# Attributes": "11",
+        "Year": "2019"
+    },
+    {
+        "Name": "Alcohol QCM Sensor Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "125",
+        "# Attributes": "8",
+        "Year": "2019"
+    },
+    {
+        "Name": "Divorce Predictors data set",
+        "Data Types": "Multivariate, Univariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "170",
+        "# Attributes": "54",
+        "Year": "2019"
+    },
+    {
+        "Name": "Incident management process enriched event log",
+        "Data Types": "Multivariate, Sequential",
+        "Default Task": "Regression, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "141712",
+        "# Attributes": "36",
+        "Year": "2019"
+    },
+    {
+        "Name": "Opinion Corpus for Lebanese Arabic Reviews (OCLAR)",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "3916",
+        "# Attributes": "3916",
+        "Year": "2019"
+    },
+    {
+        "Name": "MEx",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "6262",
+        "# Attributes": "710",
+        "Year": "2019"
+    },
+    {
+        "Name": "Beijing Multi-Site Air-Quality Data",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "420768",
+        "# Attributes": "18",
+        "Year": "2019"
+    },
+    {
+        "Name": "Online Retail II",
+        "Data Types": "Multivariate, Sequential, Time-Series, Text",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "1067371",
+        "# Attributes": "8",
+        "Year": "2019"
+    },
+    {
+        "Name": "Hepatitis C Virus (HCV) for Egyptian patients",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "1385",
+        "# Attributes": "29",
+        "Year": "2019"
+    },
+    {
+        "Name": "QSAR fish toxicity",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "908",
+        "# Attributes": "7",
+        "Year": "2019"
+    },
+    {
+        "Name": "QSAR aquatic toxicity",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "546",
+        "# Attributes": "9",
+        "Year": "2019"
+    },
+    {
+        "Name": "Human Activity Recognition from Continuous Ambient Sensor Data",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "13956534",
+        "# Attributes": "37",
+        "Year": "2019"
+    },
+    {
+        "Name": "WISDM Smartphone and Smartwatch Activity and Biometrics Dataset ",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "15630426",
+        "# Attributes": "6",
+        "Year": "2019"
+    },
+    {
+        "Name": "QSAR oral toxicity",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "8992",
+        "# Attributes": "1024",
+        "Year": "2019"
+    },
+    {
+        "Name": "QSAR androgen receptor",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "1687",
+        "# Attributes": "1024",
+        "Year": "2019"
+    },
+    {
+        "Name": "QSAR Bioconcentration classes dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "",
+        "# Instances": "779",
+        "# Attributes": "14",
+        "Year": "2019"
+    },
+    {
+        "Name": "QSAR fish bioconcentration factor (BCF)",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "1056",
+        "# Attributes": "7",
+        "Year": "2019"
+    },
+    {
+        "Name": "A study of  Asian Religious and Biblical Texts",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "590",
+        "# Attributes": "8265",
+        "Year": "2019"
+    },
+    {
+        "Name": "Real-time Election Results: Portugal 2019",
+        "Data Types": "Multivariate, Time-Series, Text",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "21643",
+        "# Attributes": "29",
+        "Year": "2019"
+    },
+    {
+        "Name": "Bias correction of numerical prediction model temperature forecast",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "7750",
+        "# Attributes": "25",
+        "Year": "2020"
+    },
+    {
+        "Name": "Bar Crawl: Detecting Heavy Drinking",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "14057567",
+        "# Attributes": "3",
+        "Year": "2020"
+    },
+    {
+        "Name": "Kitsune Network Attack Dataset",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification, Clustering, Causal-Discovery",
+        "Attribute Types": "Real",
+        "# Instances": "27170754",
+        "# Attributes": "115",
+        "Year": "2019"
+    },
+    {
+        "Name": "Shoulder Implant X-Ray Manufacturer Classification",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "597",
+        "# Attributes": "1",
+        "Year": "2020"
+    },
+    {
+        "Name": "Speaker Accent Recognition",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "329",
+        "# Attributes": "12",
+        "Year": "2020"
+    },
+    {
+        "Name": "Heart failure clinical records",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "299",
+        "# Attributes": "13",
+        "Year": "2020"
+    },
+    {
+        "Name": "Deepfakes: Medical Image Tamper Detection",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "20000",
+        "# Attributes": "200000",
+        "Year": "2020"
+    },
+    {
+        "Name": "selfBACK",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "26136",
+        "# Attributes": "6",
+        "Year": "2020"
+    },
+    {
+        "Name": "South German Credit",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "1000",
+        "# Attributes": "21",
+        "Year": "2019"
+    },
+    {
+        "Name": "Exasens",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "399",
+        "# Attributes": "4",
+        "Year": "2020"
+    },
+    {
+        "Name": "Swarm Behaviour",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "24017",
+        "# Attributes": "2400",
+        "Year": "2020"
+    },
+    {
+        "Name": "Crop mapping using fused optical-radar data set",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "325834",
+        "# Attributes": "175",
+        "Year": "2020"
+    },
+    {
+        "Name": "BitcoinHeistRansomwareAddressDataset",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "2916697",
+        "# Attributes": "10",
+        "Year": "2020"
+    },
+    {
+        "Name": "Facebook Large Page-Page Network",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "22470",
+        "# Attributes": "4714",
+        "Year": "2020"
+    },
+    {
+        "Name": "Amphibians",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "189",
+        "# Attributes": "23",
+        "Year": "2020"
+    },
+    {
+        "Name": "Early stage diabetes risk prediction dataset.",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "520",
+        "# Attributes": "17",
+        "Year": "2020"
+    },
+    {
+        "Name": "Turkish Spam V01",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "826",
+        "# Attributes": "2",
+        "Year": "2019"
+    },
+    {
+        "Name": "Stock keeping units",
+        "Data Types": "Multivariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "2279",
+        "# Attributes": "9",
+        "Year": "2019"
+    },
+    {
+        "Name": "Demand Forecasting for a store",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "28764",
+        "# Attributes": "8",
+        "Year": "2019"
+    },
+    {
+        "Name": "Detect Malware Types",
+        "Data Types": "Multivariate, Time-Series, Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "7107",
+        "# Attributes": "280",
+        "Year": "2019"
+    },
+    {
+        "Name": "Wave Energy Converters",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "288000",
+        "# Attributes": "49",
+        "Year": "2019"
+    },
+    {
+        "Name": "Youtube cookery channels viewers comments in Hinglish",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "9800",
+        "# Attributes": "3",
+        "Year": "2019"
+    },
+    {
+        "Name": "Pedestrian in Traffic Dataset",
+        "Data Types": "Multivariate, Sequential, Time-Series",
+        "Default Task": "Classification, Regression, Causal-Discovery",
+        "Attribute Types": "Real",
+        "# Instances": "4760",
+        "# Attributes": "14",
+        "Year": "2019"
+    },
+    {
+        "Name": "Cervical Cancer Behavior Risk",
+        "Data Types": "Multivariate, Univariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "72",
+        "# Attributes": "19",
+        "Year": "2019"
+    },
+    {
+        "Name": "Sattriya_Dance_Single_Hand_Gestures Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "1450",
+        "# Attributes": "",
+        "Year": "2019"
+    },
+    {
+        "Name": "Divorce Predictors data set",
+        "Data Types": "Multivariate, Univariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "170",
+        "# Attributes": "54",
+        "Year": "2019"
+    },
+    {
+        "Name": "3W dataset",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "1984",
+        "# Attributes": "8",
+        "Year": "2019"
+    },
+    {
+        "Name": "Malware static and dynamic features VxHeaven and Virus Total",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "2955",
+        "# Attributes": "1087",
+        "Year": "2019"
+    },
+    {
+        "Name": "Internet Firewall Data",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "65532",
+        "# Attributes": "12",
+        "Year": "2019"
+    },
+    {
+        "Name": "User Profiling and Abusive Language Detection Dataset",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "65919",
+        "# Attributes": "3",
+        "Year": "2019"
+    },
+    {
+        "Name": "Estimation of obesity levels based on eating habits and physical condition ",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "2111",
+        "# Attributes": "17",
+        "Year": "2019"
+    },
+    {
+        "Name": "Rice (Cammeo and Osmancik)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "3810",
+        "# Attributes": "8",
+        "Year": "2019"
+    },
+    {
+        "Name": "Vehicle routing and scheduling problems",
+        "Data Types": "Multivariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "18",
+        "# Attributes": "9",
+        "Year": "2019"
+    },
+    {
+        "Name": "Algerian Forest Fires Dataset  ",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "244",
+        "# Attributes": "12",
+        "Year": "2019"
+    },
+    {
+        "Name": "Breath Metabolomics",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "104",
+        "# Attributes": "1656",
+        "Year": "2019"
+    },
+    {
+        "Name": "Horton General Hospital",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Causal-Discovery",
+        "Attribute Types": "Integer",
+        "# Instances": "139",
+        "# Attributes": "6",
+        "Year": "2019"
+    },
+    {
+        "Name": "UrbanGB, urban road accidents coordinates labelled by the urban center",
+        "Data Types": "Univariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "360177",
+        "# Attributes": "2",
+        "Year": "2019"
+    },
+    {
+        "Name": "Gas Turbine CO and NOx Emission Data Set",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "36733",
+        "# Attributes": "11",
+        "Year": "2019"
+    },
+    {
+        "Name": "Activity recognition using wearable physiological measurements",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "4480",
+        "# Attributes": "533",
+        "Year": "2019"
+    },
+    {
+        "Name": "clickstream data for online shopping",
+        "Data Types": "Multivariate, Sequential",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "165474",
+        "# Attributes": "14",
+        "Year": "2019"
+    },
+    {
+        "Name": "CNNpred: CNN-based stock market prediction using a diverse set of variables",
+        "Data Types": "Sequential, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "1985",
+        "# Attributes": "84",
+        "Year": "2019"
+    },
+    {
+        "Name": "Apartment for rent classified",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "",
+        "# Instances": "10000",
+        "# Attributes": "22",
+        "Year": "2019"
+    },
+    {
+        "Name": ": Simulated Data set of Iraqi tourism places",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "232",
+        "# Attributes": "16",
+        "Year": "2020"
+    },
+    {
+        "Name": "Nasarian CAD Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "150",
+        "# Attributes": "52",
+        "Year": "2020"
+    },
+    {
+        "Name": "Monolithic Columns in Troad and Mysia Region",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "11",
+        "# Attributes": "19",
+        "Year": "2020"
+    },
+    {
+        "Name": "Bar Crawl: Detecting Heavy Drinking",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "14057567",
+        "# Attributes": "3",
+        "Year": "2020"
+    },
+    {
+        "Name": "Seoul Bike Sharing Demand",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "8760",
+        "# Attributes": "14",
+        "Year": "2020"
+    },
+    {
+        "Name": "Person Classification Gait Data",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "48",
+        "# Attributes": "321",
+        "Year": "2020"
+    },
+    {
+        "Name": "Shill Bidding Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "6321",
+        "# Attributes": "13",
+        "Year": "2020"
+    },
+    {
+        "Name": "Iranian Churn Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "3150",
+        "# Attributes": "13",
+        "Year": "2020"
+    },
+    {
+        "Name": "Unmanned Aerial Vehicle (UAV) Intrusion Detection",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "17256",
+        "# Attributes": "55",
+        "Year": "2020"
+    },
+    {
+        "Name": "Bone marrow transplant: children",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "187",
+        "# Attributes": "39",
+        "Year": "2020"
+    },
+    {
+        "Name": "Exasens",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "399",
+        "# Attributes": "4",
+        "Year": "2020"
+    },
+    {
+        "Name": "COVID-19 Surveillance",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "14",
+        "# Attributes": "7",
+        "Year": "2020"
+    },
+    {
+        "Name": "Refractive errors",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "467",
+        "# Attributes": "79",
+        "Year": "2020"
+    },
+    {
+        "Name": "Shoulder Implant X-Ray Manufacturer Classification",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "597",
+        "# Attributes": "1",
+        "Year": "2020"
+    },
+    {
+        "Name": "CLINC150",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "23700",
+        "# Attributes": "",
+        "Year": "2020"
+    },
+    {
+        "Name": "HCV data",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "615",
+        "# Attributes": "14",
+        "Year": "2020"
+    },
+    {
+        "Name": "Taiwanese Bankruptcy Prediction",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "6819",
+        "# Attributes": "96",
+        "Year": "2020"
+    },
+    {
+        "Name": "South German Credit (UPDATE)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "1000",
+        "# Attributes": "21",
+        "Year": "2020"
+    },
+    {
+        "Name": "IIWA14-R820-Gazebo-Dataset-10Trajectories",
+        "Data Types": "",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "",
+        "# Attributes": "",
+        "Year": "2020"
+    },
+    {
+        "Name": "Guitar Chords finger positions",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "2633",
+        "# Attributes": "5",
+        "Year": "2020"
+    },
+    {
+        "Name": "Russian Corpus of Biographical Texts",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "200",
+        "# Attributes": "2",
+        "Year": "2020"
+    },
+    {
+        "Name": "Codon usage",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "13028",
+        "# Attributes": "69",
+        "Year": "2020"
+    },
+    {
+        "Name": "Intelligent Media Accelerometer and Gyroscope (IM-AccGyro) Dataset",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "800",
+        "# Attributes": "9",
+        "Year": "2020"
+    },
+    {
+        "Name": "Myocardial infarction complications",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "1700",
+        "# Attributes": "124",
+        "Year": "2020"
+    },
+    {
+        "Name": "Hungarian Chickenpox Cases",
+        "Data Types": "Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "521",
+        "# Attributes": "20",
+        "Year": "2021"
+    },
+    {
+        "Name": "Simulated data for survival modelling",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "120000",
+        "# Attributes": "25",
+        "Year": "2018"
+    },
+    {
+        "Name": "Student Performance on an entrance examination",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "666",
+        "# Attributes": "11",
+        "Year": "2018"
+    },
+    {
+        "Name": "Chemical Composition of Ceramic Samples",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Real",
+        "# Instances": "88",
+        "# Attributes": "19",
+        "Year": "2019"
+    },
+    {
+        "Name": "Labeled Text Forum Threads Dataset",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "200",
+        "# Attributes": "9",
+        "Year": "2019"
+    },
+    {
+        "Name": "Stock keeping units",
+        "Data Types": "Multivariate",
+        "Default Task": "Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "2279",
+        "# Attributes": "9",
+        "Year": "2019"
+    },
+    {
+        "Name": "BLE RSSI dataset for Indoor localization",
+        "Data Types": "Sequential, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "23570",
+        "# Attributes": "5",
+        "Year": "2019"
+    },
+    {
+        "Name": "Basketball dataset",
+        "Data Types": "Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "10000",
+        "# Attributes": "7",
+        "Year": "2019"
+    },
+    {
+        "Name": "GitHub MUSAE",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "37700",
+        "# Attributes": "4006",
+        "Year": "2019"
+    },
+    {
+        "Name": "Anticancer peptides",
+        "Data Types": "Sequential",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "1850",
+        "# Attributes": "2",
+        "Year": "2019"
+    },
+    {
+        "Name": "Monolithic Columns in Troad and Mysia Region",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "11",
+        "# Attributes": "19",
+        "Year": "2020"
+    },
+    {
+        "Name": "Gender by Name",
+        "Data Types": "Text",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "147270",
+        "# Attributes": "4",
+        "Year": "2020"
+    },
+    {
+        "Name": "Iranian Churn Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "3150",
+        "# Attributes": "13",
+        "Year": "2020"
+    },
+    {
+        "Name": "Unmanned Aerial Vehicle (UAV) Intrusion Detection",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "17256",
+        "# Attributes": "55",
+        "Year": "2020"
+    },
+    {
+        "Name": "Shoulder Implant Manufacture Classification",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "597",
+        "# Attributes": "1",
+        "Year": "2020"
+    },
+    {
+        "Name": "LastFM Asia Social Network",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "7624",
+        "# Attributes": "7842",
+        "Year": "2020"
+    },
+    {
+        "Name": "Wheat kernels",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "314",
+        "# Attributes": "15",
+        "Year": "2020"
+    },
+    {
+        "Name": "Productivity Prediction of Garment Employees",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "1197",
+        "# Attributes": "15",
+        "Year": "2020"
+    },
+    {
+        "Name": "Multi-view Brain Networks",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer",
+        "# Instances": "70",
+        "# Attributes": "70",
+        "Year": "2020"
+    },
+    {
+        "Name": "LastFM Asia Social Network",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "7624",
+        "# Attributes": "7842",
+        "Year": "2020"
+    },
+    {
+        "Name": "Wisesight Sentiment Corpus",
+        "Data Types": "Multivariate, Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "26737",
+        "# Attributes": "4",
+        "Year": "2020"
+    },
+    {
+        "Name": "AI4I 2020 Predictive Maintenance Dataset",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification, Regression, Causal-Discovery",
+        "Attribute Types": "Real",
+        "# Instances": "10000",
+        "# Attributes": "14",
+        "Year": "2020"
+    },
+    {
+        "Name": "Dry Bean Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "13611",
+        "# Attributes": "17",
+        "Year": "2020"
+    },
+    {
+        "Name": "in-vehicle coupon recommendation",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "12684",
+        "# Attributes": "23",
+        "Year": "2020"
+    },
+    {
+        "Name": "Gait Classification",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "48",
+        "# Attributes": "321",
+        "Year": "2020"
+    },
+    {
+        "Name": "Wikipedia Math Essentials",
+        "Data Types": "Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "731",
+        "# Attributes": "1068",
+        "Year": "2021"
+    },
+    {
+        "Name": "Wikipedia Math Essentials",
+        "Data Types": "Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "731",
+        "# Attributes": "1068",
+        "Year": "2021"
+    },
+    {
+        "Name": "Synchronous Machine Data Set",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "557",
+        "# Attributes": "5",
+        "Year": "2021"
+    },
+    {
+        "Name": "Average Localization Error (ALE) in sensor node localization process in WSNs",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "107",
+        "# Attributes": "6",
+        "Year": "2021"
+    },
+    {
+        "Name": "9mers from cullpdb",
+        "Data Types": "Sequential",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "158716",
+        "# Attributes": "4",
+        "Year": "2021"
+    },
+    {
+        "Name": "TamilSentiMix",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "15744",
+        "# Attributes": "",
+        "Year": "2021"
+    },
+    {
+        "Name": "Accelerometer",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "153000",
+        "# Attributes": "5",
+        "Year": "2021"
+    },
+    {
+        "Name": "Synchronous Machine Data Set",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "557",
+        "# Attributes": "5",
+        "Year": "2021"
+    },
+    {
+        "Name": "Pedal Me Bicycle Deliveries",
+        "Data Types": "Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "36",
+        "# Attributes": "15",
+        "Year": "2021"
+    },
+    {
+        "Name": "Turkish Headlines Dataset",
+        "Data Types": "Text",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "4200",
+        "# Attributes": "7",
+        "Year": "2021"
+    },
+    {
+        "Name": "Secondary Mushroom Dataset",
+        "Data Types": "Univariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "61069",
+        "# Attributes": "21",
+        "Year": "2021"
+    },
+    {
+        "Name": "Power consumption of Tetouan city",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "52417",
+        "# Attributes": "9",
+        "Year": "2021"
+    },
+    {
+        "Name": "Raisin Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "900",
+        "# Attributes": "8",
+        "Year": "2021"
+    },
+    {
+        "Name": "Steel Industry Energy Consumption Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "",
+        "# Instances": "35040",
+        "# Attributes": "11",
+        "Year": "2021"
+    },
+    {
+        "Name": "Gender Gap in Spanish WP",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "4746",
+        "# Attributes": "21",
+        "Year": "2021"
+    },
+    {
+        "Name": "Non verbal tourists data",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "73",
+        "# Attributes": "22",
+        "Year": "2021"
+    },
+    {
+        "Name": "Roman Urdu Sentiment Analysis Dataset (RUSAD)",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "11000",
+        "# Attributes": "2",
+        "Year": "2021"
+    },
+    {
+        "Name": "TUANDROMD ( Tezpur University Android Malware Dataset)",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "4465",
+        "# Attributes": "241",
+        "Year": "2021"
+    },
+    {
+        "Name": "Higher Education Students Performance Evaluation Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "145",
+        "# Attributes": "33",
+        "Year": "2021"
+    },
+    {
+        "Name": "Risk Factor prediction of Chronic Kidney Disease",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression",
+        "Attribute Types": "Real",
+        "# Instances": "202",
+        "# Attributes": "29",
+        "Year": "2021"
+    },
+    {
+        "Name": "Lab Test",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Regression, Clustering",
+        "Attribute Types": "",
+        "# Instances": "221",
+        "# Attributes": "7",
+        "Year": "2021"
+    },
+    {
+        "Name": "Shoulder Implant Manufacture Classification",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "597",
+        "# Attributes": "1",
+        "Year": "2020"
+    },
+    {
+        "Name": "Rocket League Skillshots Data Set",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "298",
+        "# Attributes": "",
+        "Year": "2020"
+    },
+    {
+        "Name": "Sepsis survival minimal clinical records",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "110341",
+        "# Attributes": "4",
+        "Year": "2020"
+    },
+    {
+        "Name": "Water Quality Prediction",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "705",
+        "# Attributes": "11",
+        "Year": "2020"
+    },
+    {
+        "Name": "Traffic Flow Forecasting",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "2101",
+        "# Attributes": "47",
+        "Year": "2020"
+    },
+    {
+        "Name": "sentiment analysis in Saudi Arabia about distance education during Covid-19 ",
+        "Data Types": "Text",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "1765",
+        "# Attributes": "10",
+        "Year": "2020"
+    },
+    {
+        "Name": "Kain Tradisional Sambas",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification, Clustering",
+        "Attribute Types": "",
+        "# Instances": "150",
+        "# Attributes": "3",
+        "Year": "2020"
+    },
+    {
+        "Name": "Image Recognition Task Execution Times in Mobile Edge Computing",
+        "Data Types": "Univariate, Sequential, Time-Series",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "4000",
+        "# Attributes": "2",
+        "Year": "2020"
+    },
+    {
+        "Name": "REWEMA",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "6272",
+        "# Attributes": "632",
+        "Year": "2020"
+    },
+    {
+        "Name": "REJAFADA ",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer",
+        "# Instances": "1996",
+        "# Attributes": "6826",
+        "Year": "2020"
+    },
+    {
+        "Name": "Steel Industry Energy Consumption Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Integer",
+        "# Instances": "35040",
+        "# Attributes": "11",
+        "Year": "2020"
+    },
+    {
+        "Name": "Influenza outbreak event prediction via Twitter data",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "75840",
+        "# Attributes": "525",
+        "Year": "2020"
+    },
+    {
+        "Name": "Turkish Music Emotion Dataset",
+        "Data Types": "Multivariate",
+        "Default Task": "Classification",
+        "Attribute Types": "Integer, Real",
+        "# Instances": "400",
+        "# Attributes": "50",
+        "Year": "2020"
+    },
+    {
+        "Name": "Maternal Health Risk Data Set",
+        "Data Types": "",
+        "Default Task": "Classification",
+        "Attribute Types": "",
+        "# Instances": "1014",
+        "# Attributes": "7",
+        "Year": "2020"
+    },
+    {
+        "Name": "Room Occupancy Estimation",
+        "Data Types": "Multivariate, Time-Series",
+        "Default Task": "Classification",
+        "Attribute Types": "Real",
+        "# Instances": "10129",
+        "# Attributes": "16",
+        "Year": "2021"
+    },
+    {
+        "Name": "Image Recognition Task Execution Times in Mobile Edge Computing",
+        "Data Types": "Univariate",
+        "Default Task": "Regression",
+        "Attribute Types": "Real",
+        "# Instances": "4000",
+        "# Attributes": "2",
+        "Year": "2021"
+    }
+]

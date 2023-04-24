@@ -1,0 +1,30 @@
+<<<< 17 1 13 622 Data Sets
+<<<< 18 0 21 Table View  List View
+<<<< 19 0 4 Name
+<<<< 20 0 10 Data Types
+<<<< 21 0 12 Default Task
+<<<< 22 0 15 Attribute Types
+<<<< 23 0 11 # Instances
+<<<< 24 0 12 # Attributes
+<<<< 25 0 4 Year
+<<<< 26 0 8  Abalone
+<<<< 27 0 1  
+<<<< 28 0 7 Abalone
+<<<< 29 0 13 Multivariate 
+<<<< 30 0 15 Classification 
+<<<< 31 0 27 Categorical, Integer, Real 
+<<<< 32 0 5 4177 
+<<<< 33 0 2 8 
+<<<< 34 0 5 1995 
+<<<< 35 0 6  Adult
+<<<< 36 0 1  
+<<<< 37 0 5 Adult
+<<<< 38 0 13 Multivariate 
+<<<< 39 0 15 Classification 
+<<<< 40 0 21 Categorical, Integer 
+<<<< 41 0 6 48842 
+<<<< 42 0 3 14 
+<<<< 43 0 5 1996 
+<<<< 44 0 10  Annealing
+<<<< 45 0 1  
+<<<< 46 0 9 Annealing
