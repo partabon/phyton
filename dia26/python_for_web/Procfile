@@ -1,0 +1,7 @@
+app.py
+env
+Procfile
+requirements.txt
+static
+templates
+venv
