@@ -1,0 +1,6 @@
+
+Project name: "MDB_EDU"
+Cluster name: "myAtlasClusterEDU"
+Database user: "myAtlasDBUser"
+Password: "myatlas-001"
+Permissions: "readWriteAnyDatabase"
